@@ -24,7 +24,3 @@ In addition to the best practices I learned in the University of Washington Prof
 [UX Content Collective UX Writing Fundamentals](https://imgur.com/a/VvczCMy)  
 [University of Washington Certificate in Professional Technical Writing](https://imgur.com/a/WGK5e2g)
 
-## 📫Contact Me
-- <dvargo22@gmail.com>
-  
-
