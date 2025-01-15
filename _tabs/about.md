@@ -9,7 +9,7 @@ I’m Danny, a technical writer and editor with over six years of experience in 
 In addition to the best practices I learned in the University of Washington Professional Technical Writing program, I follow the [Diátaxis](https://diataxis.fr/) approach to technical documentation. This approach identifies four distinct user needs, and four corresponding forms of documentation: tutorials, how-to guides, reference, and explanation. Diátaxis is a simple framework that solves problems related to documentation content (*what to write*), style (*how to write it*), and architecture (*how to organize it*).
 
 ## 💼 Work Experience
-[Download Resume](dvargo22@gmail.com)  
+Email me for the latest copy of my resume. 
 
 - July 2024 – Present — **HP Inc.** - *Technical Writer*  
 - January 2024 – Present — **Freelance** - *Writer and Editor*  
