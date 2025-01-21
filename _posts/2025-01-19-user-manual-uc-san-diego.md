@@ -3,7 +3,7 @@ layout: post
 title: User Manual for a UC San Diego Health Services App
 date: 19-01-2025
 categories: [technical writing]
-tag: [case study, technical writing, how-to]
+tag: [case study, tech writing, how-to]
 ---
 
 ## Introduction
