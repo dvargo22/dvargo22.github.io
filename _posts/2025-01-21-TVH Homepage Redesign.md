@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TVH Homepage Redesign
-date: 25-01-2025
+date: 21-01-2025
 categories: [UX writing]
 tag: [case study, UX writing, microcopy]
 ---
