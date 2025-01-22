@@ -9,10 +9,12 @@ tag: [case study, UX writing, microcopy]
 ## Background
 TVH is a global B2B distributor of industrial and agricultural machinery spare parts. Their customer base comprises parts resellers, dealerships, repair shops, wholesalers, and other small- to mid-sized businesses. But TVH is more than just a parts seller; they offer repair services, technical training, fleet management, consulting, and other services that help customers grow their businesses. Although TVH positions itself more as a business partner than a parts seller, 92% of customers listed finding a part as the top reason for visiting the TVH website.
 ​The task was to design a new hero section for the homepage. Stakeholders wanted us to give the homepage a facelift without losing any of the functionality of the old website. They also wanted the redesign to have measurable impacts on conversions. TVH carries over 44,000,000 parts, so finding the correct part is not as easy as, say, finding a new case for your iPhone. Yet despite the fact that most users visit the site to find and purchase a part, the homepage made it difficult to determine the best way to achieve that task.
-[image]
+![homepage hero before](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)
+*This was the old homepage hero section. The parts-finding products—MyPartsFinder, MyProductSearch, and MyMachines—were unintuitive for new users and failed the recognition vs. recall test for experienced users. That is, users needed to actively recall the specific use case(s) for each product. Another source of friction was that the search bar, which is the fastest way to find a part if you have the appropriate information, was located above the navigation bar, completely separated from the three other parts-finding products*.
 
 ## Hypothesis
-[image]
+![Expedia example](/imgs/tvh-ux-writing/expedia_orig.jpg)
+*On Expedia and similar websites, the search functionality takes precedence in the hero section. It places the primary user goal—finding a flight, car rental, hotel, etc.—above marketing*.
 Prior to the redesign, the company had experimented with different content and functionalities in the hero section. First, they tried a carousel of marketing and editorial content. Engagement with content stagnated according to clickthrough and dwell time metrics, and worse, conversions (product purchases) decreased.
 Following this approach, they added the three aforementioned parts-finding products (MyPartsFinder, MyProductSearch, and MyMachines) to the hero section, next to the marketing carousel. The busyness of the design (which you can view in the above screenshot) combined with the ambiguity of the parts-finding product names yielded even worse results. 
 Based on these insights, we decided that instead of using the hero section to market products or services, we would surface the two best parts-finding methods (see "How TVH customers find parts" below). Our hypothesis was that prioritizing the main user goal--finding a part--would ultimately build more affinity for the TVH brand.
@@ -68,8 +70,10 @@ Customers were comfortable and familiar with this term and I saw no reason to ch
 ### Divergence
 In the first prototype, I used a Yes/No question to restrict the user from going down the wrong parts-finding path. The user would be directed to the correct parts-finding function based on their answer.
 The designer thought this was overkill. More importantly, it would have required too much work from developers. This idea would have worked better for a parts-finding app.
-
-[image]
+![failed idea](/imgs/tvh-ux-writing/untitled-6_orig.png)
+*An idea that was soon on the cutting room floor*.
+![brainstorming](/imgs/tvh-ux-writing/untitled-7_orig.png)
+*Brainstorming copy for headings, subheadings and CTA titles*.
 
 ## User Testing
 After writing a few versions of the hero section copy and collaborating in Figma with the designer, I partnered with a UX researcher to interview five customers. In these interviews, we asked customers to complete a few tasks to gauge the success of each prototype. I noted moments of friction and asked customers about terminology, how they felt about the new design, etc.
@@ -79,8 +83,11 @@ We knew that OCs may prefer the old, familiar website, despite its flaws. We als
 
 ### Prototypes
 ​Below are screenshots showing 2 of the 3 prototypes we tested with users. 
-[images]
+![make-model-option-1](/imgs/tvh-ux-writing/make-model-option_orig.png)
+*Although I would later modify the copy, the design above is the one our customers preferred*.
 
+![search-by-make-and-model](/imgs/tvh-ux-writing/search-and-make-model-1_orig.png)
+*This version is more similar to the current homepage. It still prioritizes the search bar as the primary parts-finding method, but users would need to go to a separate page to access the search by make and model function. Since our goal was to speed up customer success (finding a part), we didn’t think this was the best option. But we wanted to test it with long-time customers to see if they preferred this design*.
 ### User Tasks
 While most of the usability testing was qualitative, we measured 3 tasks quantitatively. We compared the new prototype vs. the old (current website) on the following 3 tasks:  
 **Task 1**: The user is given a part number for a forklift engine filter. The task is to find that part and add it to their cart.
@@ -113,8 +120,9 @@ To address this feedback, I rewrote the text to better align with the purpose of
 - A “Make” dropdown next to the search bar means that a customer won’t need to remember TVH’s 3-character codes for each manufacturer; this should ultimately improve the speed of customer success.
 - I changed the subheading below Search by make and model to better explain to the customer that they are not searching for a part but the machine a part belongs to. I also created parallel structure with the Search by part number component, starting both subheadings with "Find your..."
 
-  [images]
+  ![final screenshot](/imgs/tvh-ux-writing/tvh-homepage-final-screenshot_orig.png)
+*This is a mock-up with text overlayed over a screenshot. The final copy was entered into a CMS, so I do not have a screenshot of the solution*.
 
 ## Results
-We repeated our user testing with 5 new customers and noticed fewer moments of friction and a 15% increase in task completion speed. There were zero failures to complete a task.
+We repeated our user testing with 5 new customers and noticed fewer moments of friction and a 15% increase in task completion speed. All 5 customers succeeded in completing the task. 
 Stakeholders were really happy with the final product and expressed confidence that the hero section will increase retention and lead to quicker purchases. In addition, the new design adds needed credibility and aligns with the new brand style guide. 
