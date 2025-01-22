@@ -13,4 +13,5 @@ Wrote copy for an AstraZeneca marketing flyer distributed to oncologists.
 Interviewing subject matter experts, copyediting per AMA Manual of Style, writing
 
 ## Final Deliverable
-👇[Download Flyer](/downloads/astraZeneca-flyer.pdf)
+![Faslodex-1](/imgs/faslodex1.PNG)
+![Faslodex-2](/imgs/faslodex2.PNG)
