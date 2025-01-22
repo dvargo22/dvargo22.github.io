@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Word Macros: A How-To Guide for Technical Writers
+title: How To Add Macros to Microsoft Word
 date: 22-01-2025
 categories: [technical writing]
 tag: [case study, tech writing, how-to]
