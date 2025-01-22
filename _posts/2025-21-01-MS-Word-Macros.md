@@ -10,7 +10,7 @@ tag: [case study, tech writing, how-to]
 As part of the [University of Washington Professional Technical Writing certificate program](https://www.pce.uw.edu/certificates/professional-technical-writing), students were asked to create a deliverable that would be useful to a technical writer.
 I chose to write an instruction guide on how to add macros to a Microsoft Word template. I wanted to create something that could be repurposed as an online article. To that end, the document combines both instructional and rhetorical elements. The goal was to instruct readers how to add macros to Word and explain why macros are so valuable to technical writers.
 
-[Download How-To Guide]<>
+XXX DL HOW TO GUIDE XXX
 
 ## Background
 
@@ -21,7 +21,7 @@ The target reader does not have a computer programming background and is not flu
 ### Problem Statement
 In the age of automation and AI, technical writers are feeling more pressure than ever to increase productivity and demonstrate value. While many look to the latest and greatest tech to optimize their workflow, they sometimes overlook tried and tested tools, such as macros.
 
-<image>
+XXX IMAGE OF FIRST PAGE XX
 *I used a modified problem statement as the introduction for the How-To article*.  
 
 ## Objectives
@@ -38,7 +38,8 @@ I had two weeks to complete this project. Because my priority was to instruct re
 
 ## Final Deliverable
 
-[Download]
+XXX DL HOW TO GUIDE XXX 
+
 ## Results/Impact
 
 ## Lessons Learned
