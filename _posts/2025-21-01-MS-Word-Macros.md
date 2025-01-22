@@ -1,6 +1,6 @@
 ---
 layout: post
-title: User Manual for a UC San Diego Health Services App
+title: Microsoft Word Macros: A How-To Guide for Technical Writers
 date: 19-01-2025
 categories: [technical writing]
 tag: [case study, tech writing, how-to]
