@@ -98,7 +98,7 @@ While most of the usability testing was qualitative, we measured 3 tasks quantit
 ### Test Results
 With the exception of one OC who self-reported low computer literacy and typing skills, each customer completed all 3 tasks faster with the new prototype. ​Measurements highlighted in red indicate that the user completed a task faster using the old (current) website.
 
-Test 1
+
 | User | New Prototype | Current Website | Improvement |
 |------|------|------|------|
 |NC1| 5 sec|8 sec|3 sec|
@@ -107,7 +107,7 @@ Test 1
 |OC2|13 sec|18 sec|5 sec|
 |OC3|5 sec|10 sec|5 sec|
 
-Test 2
+
 | User | New Prototype | Current Website | Improvement |
 |------|------|------|------|
 |NC1|31 sec|33 sec|2 sec|
@@ -116,7 +116,7 @@ Test 2
 |OC2|42 sec|35 sec|-7 sec|
 |OC3|33 sec|37 sec|4 sec|
 
-Test 3
+
 | User | New Prototype | Current Website | Improvement |
 |------|------|------|------|
 |NC1|16 sec|18 sec|2 sec|
