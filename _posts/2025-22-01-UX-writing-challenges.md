@@ -11,10 +11,10 @@ I put my UX writing skills to the test with Ryan Farrell’s [Daily UX Writing C
 ## Flight Cancellation Message
 ### Scenario
 A traveler is in an airport waiting for the last leg of a flight home when their flight gets abruptly canceled due to bad weather.
-Write a message from the airline app notifying them of the cancellation and what they need to do next.  </br></br>
+Write a message from the airline app notifying them of the cancellation and what they need to do next.    
 **Headline:** 45 characters max  
 **Body:** 175 characters max  
-**Button(s):** 25 characters max  </br></br>
+**Button(s):** 25 characters max    
 
   
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
@@ -29,10 +29,10 @@ The most fastidious grammarian may dispute the usage of *due to* as a compound p
 
 ### Scenario
 A user is a working parent, and a big sports fan, in the midst of their favorite sports season who can no longer attend games.  
-Write a promotional screen for an app that lets a user choose teams, sends game reminders, real-time score updates and highlight videos.  </br></br>
+Write a promotional screen for an app that lets a user choose teams, sends game reminders, real-time score updates and highlight videos.    
 **Headline:** 40 characters max  
 **Body:** 175 characters max  
-**Button(s):** 25 characters max   </br></br>
+**Button(s):** 25 characters max     
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 
@@ -40,8 +40,8 @@ This is more copywriting than UX writing, but I think my solution conveys the es
 
 ## Wrong email address error message
 ### Scenario
-The user entered the wrong email address to sign in to their account. Tell the user to enter the right email.</br></br>
-**40 characters max** </br></br>
+The user entered the wrong email address to sign in to their account. Tell the user to enter the right email.  
+**40 characters max**   
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 The best solution to this error is good design and development. Visual aids, such as a red outline around the form field, are more effective than clear UX writing. If we can tell users whether an incorrect email or an incorrect password caused the error, even better.   
@@ -51,10 +51,10 @@ Finally, I didn’t use words such as “Oops” or “Hmm” because—as a per
 ## Grocery home delivery promo overlay
 ### Scenario
 A user is in their favorite supermarket. They open the supermarket’s app on their phone to see what’s on sale and are greeted by a promotion. Write a promotional home screen for a subscription service that delivers groceries to the user once a month for a flat fee.
-</br></br>
+  
 **Headline:** 45 characters max  
 **Body:** 175 characters max  
-**Button(s):** 25 characters max    </br></br>
+**Button(s):** 25 characters max      
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 Again, this is more copywriting than UX writing. The headline is attention-grabbing and mentions the main message of the promo: grocery delivery.  
@@ -64,9 +64,9 @@ I used some sneaky psychology tactics in this overlay: FOMO. Most people—mysel
 ### Scenario
 It’s Monday. A user has just gotten into their car to drive to work. They plug their phone into the car and start driving.  
 How would you let the user know there’s a fire happening in a nearby town that is causing road closures? The effect on their commute is unknown, but there is a definite danger if the fire gets closer. How do you communicate this to them? When? Write it.
-</br></br>
+  
 **Headline**: 30 characters max  
-**Body**: 45 characters max  </br></br>
+**Body**: 45 characters max    
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 Because this is an emergency, I didn’t mince words or give the users options. I tell them to reroute.
@@ -76,7 +76,7 @@ Because this is an emergency, I didn’t mince words or give the users options. 
 A sports fan is at a wedding while their favorite team is playing against their arch-rivals. Their team scores.
 How would you, quickly, let the sports fan know about the latest play, the current score, and the key players?
 **Headline**: 30 characters max  
-**Body**: 45 characters max  </br></br>
+**Body**: 45 characters max    
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 The user will—at most—glance at this alert, so it needs to be short and to the point. They’ll want to know who scored, the score of the game, and how much time is left in the game. Any hockey fan would understand that Larkin scored his 19th goal of the season with an assist from Suter in the first period of the game. If we had a staff writer on hand to write the body text, we could add a little more pizazz: “Suter feeds Larkin with 7:46 to go in the 1st“ or something similar. But if it was automated, this would suffice.
@@ -87,7 +87,7 @@ The user is a casual music fan and (on occasion) goes to live concerts. They hav
 Tell the user that one of their favorite bands is playing live in their town. How would you compel them to want to go?  
 **Headline:** 30 characters max  
 **Body:** 45 characters max  
-**Button:** 25 characters  </br></br>
+**Button:** 25 characters    
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 The pop-up reads like a flyer tacked onto a telephone pole. I tried to create a sense of urgency in the heading and only included the essentials in the body to make it easily scannable.
@@ -96,7 +96,7 @@ The pop-up reads like a flyer tacked onto a telephone pole. I tried to create a 
 The user is trying to rent a car using an application but the credit card on file has expired.  
 Write them an error message so that they can correct the problem.  
 **Headline:** 30 characters  
-**Body:** 45 characters  </br></br>
+**Body:** 45 characters    
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 My goal was to avoid sounding accusatory, so rather than “Your credit card has expired,” I chose “Expired payment method.” This also frontloads the most important word—*Expired*.  
@@ -109,7 +109,7 @@ The user is trying to view a website to help them buy a car. But, the content ca
 Ask them where they live and who they are without sounding like you're unnecessarily mining their data.  
 **Headline:** 25 characters  
 **Body:** 45 characters  
-**Button**: 15 characters  </br></br>
+**Button**: 15 characters    
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
 ### Rationale
 People are pretty savvy; they know they’re paying with their data in this situation, and they might be put off by it. I’ve made the copy as persuasive as possible to let them know they're getting a unique value proposition that’s only available if they provide their name and zip code.
@@ -119,7 +119,7 @@ People are pretty savvy; they know they’re paying with their data in this situ
 An elderly user is doing a Google search to find an easy way to buy contact lenses online.  
 Write a title and meta description for a website that sells subscription contact lenses delivered to a user every 30 days—convince them to try it.  
 **Title: 60** characters max  
-**Meta Description**: 160 characters max  </br></br>
+**Meta Description**: 160 characters max    
 
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg) 
 ### Rationale
@@ -129,8 +129,8 @@ With SEO and meta-descriptions, there’s no leeway with character limits. There
 ### Scenario
 A user is creating an account. When they come to the step where they are asked to enter their name, they get an error message. A fraud detection software thinks their name is fake—but it’s wrong 5% of the time.  
 Write an error message that prompts them to fix the error without shaming them for having a fake-sounding name.  
-</br></br>
-**45 characters max** </br></br>
+  
+**45 characters max**   
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg) 
 ### Rationale
 This is a sensitive one. The last thing I wanted to do was offend a person with a non-Anglo-Saxon name by saying their name sounded "fake."  
@@ -140,10 +140,10 @@ One solution is to avoid explaining why the error has occurred and instead frame
 ### Scenario
 A short-haul truck driver has a phone app that monitors his route, schedule, fuel & deliveries. He has 6 more deliveries before stopping for fuel and lunch. Due to unexpected traffic, he’s behind schedule. He can choose to stay on his planned route for a few more stops, but risk running low on fuel and missing lunch, or he can get fuel and lunch now and finish the deliveries later.  
 Write a push notification alerting him of this dilemma and his options.
-</br></br>
+  
 **Headline:** 30 characters max  
 **Body:** 45 characters max  
-**Button(s):** 25 characters max  </br></br>
+**Button(s):** 25 characters max    
 ![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg) 
 ### Rationale
 There’s a lot to tell the driver:
