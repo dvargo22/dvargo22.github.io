@@ -16,14 +16,15 @@ Write a message from the airline app notifying them of the cancellation and what
 **Body:** 175 characters max  
 **Button(s):** 25 characters max    
 
-  
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
+![Flight Cancellation](/imgs/UX writing challenges/flight-cancellation-final.png)  
 
 
 ### Rationale
-It’s impossible to know if an airline could tailor a flight cancellation message to a customer’s unique context. But let’s assume they can respond uniquely to single-stop flight cancellations and connection cancellations. In this scenario, the airline can’t just offer future booking credit and say “Better luck next time.”
-Given the emergency nature of a canceled flight, I think all-caps are warranted in the heading. I deliberated on *FLIGHT* vs. *CONNECTION* vs. *CONNECTING FLIGHT* but settled on ‘CONNECTION’ for its combined brevity and specificity. 
-The most fastidious grammarian may dispute the usage of *due to* as a compound preposition, but in the context of a flight cancellation message, that seems like the least of a customer’s concerns. The voice here is formal but simple. I opted for ‘bad weather’ instead of ‘inclement weather’ to keep the reading level as low as possible. And I bolded ‘we’ve rebooked you on the next available flight’ to make it clear that the customer does not need to do anything.
+I've been in this situation and I can tell you it's incredibly frustrating. It's even more frustrating when no one is at the gate to help you or worse, someone is at the gate but instead of helping you just tells you that your best option is to rebook using the app. In my experience, if you contact the airline, they will always try to get you on the next available flight. They will only pay for a flight from a competing airline if there are no available flights on the day of your canceled flight.
+
+This message is successful because it's empathetic ("We sincerely apologize") and reassuring--I tell the reader they can rebook at no extra cost or if they don't rebook they will be reimbursed. The message also pre-empts the readers attempt to . This not only saves the airline labor, it prevents the user from undergoing the frustrating experience. In th eend, it will probably be faster to rebook quickly on your phone than finding a gate agent, exiting the terminal to go to the check-in (and having to go through security screening again) or waiting on hold on the phone. 
+
+The heading is good because it tells the user they need to take action. This is both useful and prevents discouragement. 
 
 ## Sports app promo screen
 
