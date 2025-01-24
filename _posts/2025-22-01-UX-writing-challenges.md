@@ -6,7 +6,8 @@ categories: [UX writing]
 tag: [UI design, wireframing, UX writing, Prototyping, Content Strategy, Brand Voice and tone, case study)]
 ---
 ## Introduction
-I put my UX writing skills to the test with Ryan Farrell’s [Daily UX Writing Challenges](https://dailyuxwriting.com/). The following is a sample of completed challenges mocked up in Figma.  
+I put my UX writing skills to the test with Ryan Farrell’s [Daily UX Writing Challenges](https://dailyuxwriting.com/). The following is a sample of responses that I mocked up in Figma.  
+Note that while character limits are imposed on each challenge, some of them are unrealistically confining. Brevity at the cost of clarity and usability is a UX no-no. Nevertheless, whenever I flouted character limits, I provided two solutions: one within the limits and one where I wrote a more user-friendly solution.
 
 ## Flight Cancellation Message
 ### Scenario
@@ -16,15 +17,24 @@ Write a message from the airline app notifying them of the cancellation and what
 **Body:** 175 characters max  
 **Button(s):** 25 characters max    
 
-![Flight Cancellation](/imgs/UX writing challenges/flight-cancellation-final.png)  
+![Flight Cancellation](/imgs/UX writing challenges/flight-cancellations-final.png)  
 
+### Why This Solution Works  
+The microcopy balances empathy, clarity, and user empowerment, making a frustrating experience more manageable.  
+#### Empathy and Transparency:
+- Opening with an acknowledgment of the inconvenience builds trust and shows empathy.
+- Explaining the reason for cancellation (bad weather) reassures travelers it’s out of the airline’s control.
+- Explaining that there is no advantage to contacting a Reservations specialist--which may involve exiting the terminal, asking for help at the check-in counter, and needing to pass through security screening again--takes the burden off airline support staff and saves the user wasted effort and/or frustrating phone calls. I know from personal experience that the only reason to contact the airline is if there are no available flights and you need them to book you through a competing airline.
+#### Clarity and Simplicity:
+- Two clear options are provided up front, with easy-to-understand language and no ambiguity about the next steps.
+#### Actionable CTAs:  
+- The "Find a New Flight" button encourages quick action for those who need to rebook.
+- Reassuring that a refund will be automatic (with a timeline) prevents confusion or additional effort for the user.
+#### Positive Framing:
+- Instead of focusing solely on the inconvenience, the message emphasizes solutions and safety, softening the blow of the cancellation. Even the heading is encouraging, giving the user a feeling of empowerment rather than defeat. 
+#### Accessibility:
+- Short sentences, simple language ('bad' not 'inclement', 'new flight' not 'alternative flight'), straightforward instructions, and optional customer support links make the message accessible to all users, regardless of stress levels or language proficiency.
 
-### Rationale
-I've been in this situation and I can tell you it's incredibly frustrating. It's even more frustrating when no one is at the gate to help you or worse, someone is at the gate but instead of helping you just tells you that your best option is to rebook using the app. In my experience, if you contact the airline, they will always try to get you on the next available flight. They will only pay for a flight from a competing airline if there are no available flights on the day of your canceled flight.
-
-This message is successful because it's empathetic ("We sincerely apologize") and reassuring--I tell the reader they can rebook at no extra cost or if they don't rebook they will be reimbursed. The message also pre-empts the readers attempt to . This not only saves the airline labor, it prevents the user from undergoing the frustrating experience. In th eend, it will probably be faster to rebook quickly on your phone than finding a gate agent, exiting the terminal to go to the check-in (and having to go through security screening again) or waiting on hold on the phone. 
-
-The heading is good because it tells the user they need to take action. This is both useful and prevents discouragement. 
 
 ## Sports app promo screen
 
