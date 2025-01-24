@@ -7,7 +7,7 @@ tag: [UI design, wireframing, UX writing, Prototyping, Content Strategy, Brand V
 ---
 ## Introduction
 I put my UX writing skills to the test with Ryan Farrell’s [Daily UX Writing Challenges](https://dailyuxwriting.com/). The following is a sample of responses that I mocked up in Figma.  
-Note that while character limits are imposed on each challenge, some of them are unrealistically confining. Brevity at the cost of clarity and usability is a UX no-no. Nevertheless, whenever I flouted character limits, I provided two solutions: one within the limits and one where I wrote a more user-friendly solution.
+I found some of the character limits needlessly confining and unrealistic. Brevity at the cost of clarity and usability is a UX no-no. Nevertheless, whenever I flouted character limits, I provided two solutions: one within the limits and a longer version that I deemed more user-friendly.
 
 ## Flight Cancellation Message
 ### Scenario
@@ -24,7 +24,7 @@ The microcopy balances empathy, clarity, and user empowerment, making a frustrat
 #### Empathy and Transparency:
 - Opening with an acknowledgment of the inconvenience builds trust and shows empathy.
 - Explaining the reason for cancellation (bad weather) reassures travelers it’s out of the airline’s control.
-- Explaining that there is no advantage to contacting a Reservations specialist takes the burden off airline customer support and saves the user wasted effort (going to the check-in desk, booking a new flight, and re-clearing security) or frustrating phone calls. I know from personal experience that the only reason to contact the airline is if there are no available flights on your travel day and you need them to book you through a competing airline.
+- Explaining that there is no advantage to contacting a Reservations specialist saves users time and effort—avoiding unnecessary trips to the check-in desk, re-clearing security, or frustrating phone calls—while easing the load on customer support.
 #### Clarity and Simplicity:
 - Two clear options are provided up front, with easy-to-understand language and no ambiguity about the next steps.
 #### Actionable CTAs:  
