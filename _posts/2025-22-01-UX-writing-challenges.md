@@ -36,18 +36,26 @@ The microcopy balances empathy, clarity, and user empowerment, making a frustrat
 - Short sentences, simple language ('bad' not 'inclement', 'new flight' not 'alternative flight'), straightforward instructions, and optional customer support links make the message accessible to all users, regardless of stress levels or language proficiency.
 
 
-## Sports app promo screen
-
+## Sports App Promo Screen
+By balancing clarity, relevance, and a compelling CTA, this solution is designed to attract users and encourage them to engage with the app immediately.
 ### Scenario
 A user is a working parent, and a big sports fan, in the midst of their favorite sports season who can no longer attend games.  
 Write a promotional screen for an app that lets a user choose teams, sends game reminders, real-time score updates and highlight videos.    
 **Headline:** 40 characters max  
 **Body:** 175 characters max  
 **Button(s):** 25 characters max     
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
-
-This is more copywriting than UX writing, but I think my solution conveys the essential information.  
+![Sports app promo screen](/imgs/UX writing challenges/sports app promo screen.png)  
+### Why This Solution Works  
+#### Tailored to the User's Situation:
+The header directly addresses the target audience: sports fans who can't attend games but still want to stay connected. It emphasizes that they can follow their favorite team no matter where they are, resonating with the user's lifestyle.
+#### Concise and Impactful Body Copy:
+The body copy is short, to the point, and covers the app’s core features: game reminders, score updates, and highlight reels. It avoids unnecessary detail while clearly communicating the app's value.
+#### Appealing to the On-the-Go User:
+By mentioning “sports fans on the move,” it aligns with busy adults who need a quick, efficient way to stay updated.
+#### Action-Oriented CTA:
+The button, “Try FanAddict Free,” is simple, enticing, and encourages immediate action. Highlighting that the app is free lowers the barrier to entry and motivates users to give it a shot.
+#### Effective Use of Space:
+The copy is minimal yet effective, making it easy to scan quickly, which is perfect for users with limited time and attention.
 
 ## Wrong email address error message
 ### Scenario
