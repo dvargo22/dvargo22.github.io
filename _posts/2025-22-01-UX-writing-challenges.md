@@ -24,7 +24,7 @@ The microcopy balances empathy, clarity, and user empowerment, making a frustrat
 #### Empathy and Transparency:
 - Opening with an acknowledgment of the inconvenience builds trust and shows empathy.
 - Explaining the reason for cancellation (bad weather) reassures travelers it’s out of the airline’s control.
-- Explaining that there is no advantage to contacting a Reservations specialist--which may involve exiting the terminal, asking for help at the check-in counter, and needing to pass through security screening again--takes the burden off airline support staff and saves the user wasted effort and/or frustrating phone calls. I know from personal experience that the only reason to contact the airline is if there are no available flights and you need them to book you through a competing airline.
+- Explaining that there is no advantage to contacting a Reservations specialist takes the burden off airline customer support and saves the user wasted effort (going to the check-in desk, booking a new flight, and re-clearing security) or frustrating phone calls. I know from personal experience that the only reason to contact the airline is if there are no available flights on your travel day and you need them to book you through a competing airline.
 #### Clarity and Simplicity:
 - Two clear options are provided up front, with easy-to-understand language and no ambiguity about the next steps.
 #### Actionable CTAs:  
