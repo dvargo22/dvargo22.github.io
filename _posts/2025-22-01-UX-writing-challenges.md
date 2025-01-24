@@ -7,7 +7,7 @@ tag: [UI design, wireframing, UX writing, Prototyping, Content Strategy, Brand V
 ---
 ## Introduction
 I put my UX writing skills to the test with Ryan Farrell’s [Daily UX Writing Challenges](https://dailyuxwriting.com/). The following is a sample of responses that I mocked up in Figma.  
-I found some of the character limits needlessly confining and unrealistic. Brevity at the cost of clarity and usability is a UX no-no. Nevertheless, whenever I flouted character limits, I provided two solutions: one within the limits and a longer version that I deemed more user-friendly.
+
 
 ## Flight Cancellation Message
 ### Scenario
@@ -20,7 +20,7 @@ Write a message from the airline app notifying them of the cancellation and what
 ![Flight Cancellation](/imgs/UX writing challenges/flight-cancellations-final.png)  
 
 ### Why This Solution Works  
-The microcopy balances empathy, clarity, and user empowerment, making a frustrating experience more manageable.  
+I found the character limits for this challenge needlessly confining and unrealistic. Brevity at the cost of clarity and usability is a UX no-no, and this is a scenario where the airline does not want to come off as curt. Nevertheless, I provided two solutions: one within the limits and a longer version that better balances empathy, clarity, and user empowerment, making a frustrating experience more manageable.  
 #### Empathy and Transparency:
 - Opening with an acknowledgment of the inconvenience builds trust and shows empathy.
 - Explaining the reason for cancellation (bad weather) reassures travelers it’s out of the airline’s control.
@@ -57,15 +57,21 @@ The button, “Try FanAddict Free,” is simple, enticing, and encourages immedi
 #### Effective Use of Space:
 The copy is minimal yet effective, making it easy to scan quickly, which is perfect for users with limited time and attention.
 
-## Wrong email address error message
+## Wrong Email Address
 ### Scenario
 The user entered the wrong email address to sign in to their account. Tell the user to enter the right email.  
 **40 characters max**   
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
-The best solution to this error is good design and development. Visual aids, such as a red outline around the form field, are more effective than clear UX writing. If we can tell users whether an incorrect email or an incorrect password caused the error, even better.   
-“We don’t recognize that email” is better than “Incorrect email address” for two reasons: 1) It takes the blame off the user. *You didn’t do anything wrong. We just don’t recognize that email address.* 2) The email address might be correct, but it might not be associated with an account on this website. In this scenario, I would also point out to developers that we must include a "Create Account" button because if users enter their email address correctly and realize they don't have an account on the platform, they need to an option to create one.  
-Finally, I didn’t use words such as “Oops” or “Hmm” because—as a person who often enters the wrong email or password—I find these whimsical words annoying.
+![Wrom Email Address](/imgs/UX writing challenges/wrong email.png)  
+### Why This Solution Works
+The best solution to this error is good design and development. Visual aids, such as a red outline around the form field, are more effective than clear UX writing. 
+#### Clarity and Simplicity:
+The message uses clear, everyday language that’s easy to understand. "We don't recognize that email" directly tells the user what went wrong, while "Try again" provides an actionable next step.
+#### Conciseness:
+The copy is brief and avoids overwhelming the user with unnecessary details, which is ideal for error messages.
+#### Friendly Tone:
+The phrasing avoids blame or frustration. Instead of saying "You entered the wrong email," it focuses the attention on the system ("*We* don’t recognize that email"), making the user feel less at fault.
+#### Actionable Guidance:
+"Try again" immediately invites the user to correct their mistake, guiding them toward the next step without further confusion.
 
 ## Grocery home delivery promo overlay
 ### Scenario
@@ -74,21 +80,40 @@ A user is in their favorite supermarket. They open the supermarket’s app on th
 **Headline:** 45 characters max  
 **Body:** 175 characters max  
 **Button(s):** 25 characters max      
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
-Again, this is more copywriting than UX writing. The headline is attention-grabbing and mentions the main message of the promo: grocery delivery.  
-I used some sneaky psychology tactics in this overlay: FOMO. Most people—myself included—will click “Remind me later” when given the choice to sign up for something. If a decision isn’t important and I’m busy (shopping), I’ll likely put it off until later. But I didn’t give the user the option to tap "Remind me later". Instead, I tried to make them feel anxious about declining the offer. If users say "No, thanks" to this promotion now, they might never get a chance to sign up for grocery delivery or get the first month of deliveries free.  The fear of missing out on a limited-time opportunity is extremely powerful.
+![Grocery Delivery Subscription](/imgs/UX writing challenges/grocery delivery subscription.png)  
 
-## A fiery push notification
+### Why This Solution Works
+This solution effectively combines an engaging tone, clear value, and a low-friction CTA to attract attention, build interest, and drive action. It’s designed to convert casual curiosity into immediate sign-ups.
+#### Playful and Attention-Grabbing Header:
+The header employs a lighthearted, conversational tone to grab attention and convey excitement. This tone makes the service feel approachable and fresh, engaging users emotionally. Plus, the double meaning of "big deal"—it's a big *value proposition* and it's *important*—might be appreciated by the astute reader.
+#### Clear and Relatable Value Proposition:
+"Skip the lines and shop from home" directly addresses a common pain point (waiting in lines) while presenting the solution (convenience of shopping from home). It aligns with the user’s immediate context—being in a busy supermarket.
+#### Simple Pricing Information:
+"For just $10 extra" is straightforward and transparent, making the cost easy to understand. This transparency helps build trust and makes the offer feel like a no-brainer.
+#### Concise and Engaging Copy:
+The message is short, to the point, and free of jargon, respecting the user's time while delivering the core value of the service.
+#### Strong Call to Action (CTA):
+"Sign me up!" is enthusiastic and action-oriented, reflecting the service’s simplicity and ease. People hate subscribing and signing up for things, but by framing the service in the first-person, we use the psychological tactic of making the user thinking, "*I'm* going to save so much time and effort by signing up." Another psychological tactic is FOMO:  "No, thanks" has a finality to it. If they don't sign up now, they might never get another chance (of course, that's not how it works, but that's how it feels). The fear of missing out on a limited-time opportunity is powerful.
+#### Context-Aware:
+The microcopy complements the user's current experience of being in the supermarket, presenting the service as a way to make future trips easier or unnecessary.
+
+## A Fiery Push Notification
 ### Scenario
 It’s Monday. A user has just gotten into their car to drive to work. They plug their phone into the car and start driving.  
 How would you let the user know there’s a fire happening in a nearby town that is causing road closures? The effect on their commute is unknown, but there is a definite danger if the fire gets closer. How do you communicate this to them? When? Write it.
   
 **Headline**: 30 characters max  
 **Body**: 45 characters max    
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
-Because this is an emergency, I didn’t mince words or give the users options. I tell them to reroute.
+![Fiery Push Notification](/imgs/UX writing challenges/fires ahead.png) 
+### Why This Solution Works
+The character limits seemed completely legitimate for this type of notification. But they did make this one a tough challenge.  
+#### Clear, Direct, and Actionable Headline:
+The header communicates urgency and potential danger while giving the user agency. I considered using the words "EMERGENCY" or "DANGER" but didn't want to cause unnecessary panic. The "Tap to reroute" CTA  empowers the user to easily and safely check affected routes. This prevents distraction while offering a way to adapt to their commute.
+#### Essential Details Only:
+The body copy provides concise information: where the fire is and its impact on road closures. This respects the user's focus while driving.
+#### Balanced Tone:
+The tone is calm yet serious, focusing on safety and awareness rather than alarm, which helps the user stay focused while driving.
+
 
 ## Score update push notification
 ### Scenario
@@ -96,9 +121,9 @@ A sports fan is at a wedding while their favorite team is playing against their 
 How would you, quickly, let the sports fan know about the latest play, the current score, and the key players?
 **Headline**: 30 characters max  
 **Body**: 45 characters max    
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
-The user will—at most—glance at this alert, so it needs to be short and to the point. They’ll want to know who scored, the score of the game, and how much time is left in the game. Any hockey fan would understand that Larkin scored his 19th goal of the season with an assist from Suter in the first period of the game. If we had a staff writer on hand to write the body text, we could add a little more pizazz: “Suter feeds Larkin with 7:46 to go in the 1st“ or something similar. But if it was automated, this would suffice.
+![sports Push Notification](/imgs/UX writing challenges/sports push notification.png)  
+### Why This Solution Works:
+The user will—at most—glance at this alert, so it needs to be short and to the point. They’ll want to know who scored, the score of the game, and how much time is left in the game. Any hockey fan would understand that Larkin scored his 19th goal of the season with an assist from Suter in the first period of the game. If character limits weren't so constraining, you could add a little more personality: “Suter feeds Larkin with 7:46 to go in the 1st“ or something similar. But if this is an automated message, simplicity is probably the safer bet.
 
 ## Live music pop-up modal
 ### Scenario
@@ -107,8 +132,8 @@ Tell the user that one of their favorite bands is playing live in their town. Ho
 **Headline:** 30 characters max  
 **Body:** 45 characters max  
 **Button:** 25 characters    
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
+![Live Music](/imgs/UX writing challenges/music app.png)  
+### Why This Solution Works
 The pop-up reads like a flyer tacked onto a telephone pole. I tried to create a sense of urgency in the heading and only included the essentials in the body to make it easily scannable.
 
 ## Payment method error
@@ -116,33 +141,14 @@ The user is trying to rent a car using an application but the credit card on fil
 Write them an error message so that they can correct the problem.  
 **Headline:** 30 characters  
 **Body:** 45 characters    
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
-My goal was to avoid sounding accusatory, so rather than “Your credit card has expired,” I chose “Expired payment method.” This also frontloads the most important word—*Expired*.  
-The message also implies that the payment method *on file* has expired, not that the user needs to replace their card, which would be stressful.  
-‘Payment method’ works best because it can be used for credit cards, debit cards, Apple Pay, PayPal, etc.  
+![payment method expired](/imgs/UX writing challenges/payment method expired.png)
+### Why This Solution Works
+The marriage of UX design and UX writing is on display here. The red letters and exclamation point will alert even the most impatient user that something has gone wrong.
+#### Clear and Direct Error Headline:
+"Update Your Payment Method" immediately tells the user what they need to do, minimizing confusion or frustration. 
+#### Concise and Actionable Body:
+The body copy identifies the issue ("Card expired") and provides two possible options: change the date—many times the card number is the same but the card is reissued with a new date—or change the payment method altogether. This guarantees the user knows how to fix the problem quickly and avoids terms like 'valid' or 'invalid' which can be interpreted as both vague and ableist.
 
-## Asking for a user’s data
-### Scenario
-The user is trying to view a website to help them buy a car. But, the content can’t load without the user’s location. They need to enter their ZIP code and first name.  
-Ask them where they live and who they are without sounding like you're unnecessarily mining their data.  
-**Headline:** 25 characters  
-**Body:** 45 characters  
-**Button**: 15 characters    
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg)  
-### Rationale
-People are pretty savvy; they know they’re paying with their data in this situation, and they might be put off by it. I’ve made the copy as persuasive as possible to let them know they're getting a unique value proposition that’s only available if they provide their name and zip code.
-
-## SEO for a subscription contact lens service 
-### Scenario
-An elderly user is doing a Google search to find an easy way to buy contact lenses online.  
-Write a title and meta description for a website that sells subscription contact lenses delivered to a user every 30 days—convince them to try it.  
-**Title: 60** characters max  
-**Meta Description**: 160 characters max    
-
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg) 
-### Rationale
-With SEO and meta-descriptions, there’s no leeway with character limits. Therefore, writing persuasive, purposeful copy comes at a premium. Mentioning that the company offers virtual ophthalmology is an enticing add-on perk: users are looking for a way to purchase contacts online, which means they’re likely open-minded about online eye appointments too.
 
 ## Fake name error message 
 ### Scenario
@@ -150,10 +156,12 @@ A user is creating an account. When they come to the step where they are asked t
 Write an error message that prompts them to fix the error without shaming them for having a fake-sounding name.  
   
 **45 characters max**   
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg) 
-### Rationale
-This is a sensitive one. The last thing I wanted to do was offend a person with a non-Anglo-Saxon name by saying their name sounded "fake."  
-One solution is to avoid explaining why the error has occurred and instead frame it as a security measure on the *user's b*ehalf. If this is too dishonest, I think the second option is polite and doesn't accuse the user of having a fake-sounding name.
+![payment method expired](/imgs/UX writing challenges/fake name.png)
+### Why This Solution Works
+This is a sensitive one. The last thing I wanted to do was offend a user with a very real name (I chose the real name of a Korean Pop Star) that the system flags as "fake." The role of the UX Writer here is not necessarily to solve the problem with words but to be sensitive and not shame, irritate, or discourage the user further.
+#### Reframes the Error as a Security Measure
+This is ultimately a software problem. If the user has entered their actual name with no typos, no amount of re-entering the name will resolve the error. So we need to provide the user with a workaround to validate their name without suggesting that the system thinks the name is fake. By sending a simple email verification, the message completely circumvents suggesting the name is fake—or worse "invalid"—and reframes the error as a security measure, turning a negative into a positive. This would be an easily implemented solution for any software team. 
+
 
 ## Traffic delays, a truck driver, and a push notification 
 ### Scenario
