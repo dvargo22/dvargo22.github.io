@@ -169,7 +169,7 @@ Write a push notification alerting him of this dilemma and his options.
 **Headline:** 30 characters max  
 **Body:** 45 characters max  
 **Button(s):** 25 characters max    
-![Delivery Driver App](/imgs/UX writing challenges/delivery driver app.png)
+![Delivery Driver App](/imgs/UX writing challenges/delivery driver app 2.png)
 ### Why This Solution Works
 This challenge highlighted the problem with all hypothetical UX writing: we know very little about the users and what they desire from the app. Do they want to be told what to do, like a Formula 1 driver following orders from his engineer? Or do they want information and autonomy?  In the end, I chose the latter, attempting to empathize with the driver while still providing them with enough information to make a choice. In an ideal world, the app would know the most efficient plan. For example, based on traffic data, the app might suggest it would be more efficient to get off the road now and wait for traffic to clear. Alternatively, if the data suggests it will only get worse, the driver might want to make as many deliveries as possible and skip lunch. Another point: is the driver at risk of running out of fuel if they push through?
 #### Headline Respects Driver's Experience/Expertise:
