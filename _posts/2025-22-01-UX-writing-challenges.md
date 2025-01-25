@@ -73,7 +73,7 @@ The phrasing avoids blame or frustration. Instead of saying "You entered the wro
 #### Actionable Guidance:
 "Try again" immediately invites the user to correct their mistake, guiding them toward the next step without further confusion.
 
-## Grocery home delivery promo overlay
+## Grocery Delivery Promo Overlay
 ### Scenario
 A user is in their favorite supermarket. They open the supermarket’s app on their phone to see what’s on sale and are greeted by a promotion. Write a promotional home screen for a subscription service that delivers groceries to the user once a month for a flat fee.
   
@@ -113,7 +113,7 @@ The body copy provides concise information: where the fire is and its impact on 
 The tone is calm yet serious, focusing on safety and awareness rather than alarm, which helps the user stay focused while driving.
 
 
-## Score update push notification
+## Score Update Push Notification
 ### Scenario
 A sports fan is at a wedding while their favorite team is playing against their arch-rivals. Their team scores.
 How would you, quickly, let the sports fan know about the latest play, the current score, and the key players?
@@ -123,7 +123,7 @@ How would you, quickly, let the sports fan know about the latest play, the curre
 ### Why This Solution Works:
 The user will—at most—glance at this alert, so it needs to be short and to the point. They’ll want to know who scored, the score of the game, and how much time is left in the game. Any hockey fan would understand that Larkin scored his 19th goal of the season with an assist from Suter in the first period of the game. If character limits weren't so constraining, you could add a little more personality: “Suter feeds Larkin with 7:46 to go in the 1st“ or something similar. But if this is an automated message, simplicity is probably the safer bet.
 
-## Live music pop-up modal
+## Live Music Pop-Up Modal
 ### Scenario
 The user is a casual music fan and (on occasion) goes to live concerts. They have a music player app on their phone.  
 Tell the user that one of their favorite bands is playing live in their town. How would you compel them to want to go?  
@@ -134,7 +134,7 @@ Tell the user that one of their favorite bands is playing live in their town. Ho
 ### Why This Solution Works
 The pop-up reads like a flyer tacked onto a telephone pole. I tried to create a sense of urgency in the heading and only included the essentials in the body to make it easily scannable.
 
-## Payment method error
+## Payment Method Error
 The user is trying to rent a car using an application but the credit card on file has expired.  
 Write them an error message so that they can correct the problem.  
 **Headline:** 30 characters  
@@ -148,7 +148,7 @@ The marriage of UX design and UX writing is on display here. The red letters and
 The body copy identifies the issue ("Card expired") and provides two possible options: change the date—many times the card number is the same but the card is reissued with a new date—or change the payment method altogether. This guarantees the user knows how to fix the problem quickly and avoids terms like 'valid' or 'invalid' which can be interpreted as both vague and ableist.
 
 
-## Fake name error message 
+## Fake Name Error Message
 ### Scenario
 A user is creating an account. When they come to the step where they are asked to enter their name, they get an error message. A fraud detection software thinks their name is fake—but it’s wrong 5% of the time.  
 Write an error message that prompts them to fix the error without shaming them for having a fake-sounding name.  
@@ -161,7 +161,7 @@ This is a sensitive one. The last thing I wanted to do was offend a user with a 
 This is ultimately a software problem. If the user has entered their actual name with no typos, no amount of re-entering the name will resolve the error. So we need to provide the user with a workaround to validate their name without suggesting that the system thinks the name is fake. By sending a simple email verification, the message completely circumvents suggesting the name is fake—or worse "invalid"—and reframes the error as a security measure, turning a negative into a positive. This would be an easily implemented solution for any software team. 
 
 
-## Traffic delays, a truck driver, and a push notification 
+## Truck Driver Behind Schedule 
 ### Scenario
 A short-haul truck driver has a phone app that monitors his route, schedule, fuel & deliveries. He has 6 more deliveries before stopping for fuel and lunch. Due to unexpected traffic, he’s behind schedule. He can choose to stay on his planned route for a few more stops, but risk running low on fuel and missing lunch, or he can get fuel and lunch now and finish the deliveries later.  
 Write a push notification alerting him of this dilemma and his options.
