@@ -83,19 +83,17 @@ A user is in their favorite supermarket. They open the supermarket’s app on th
 ![Grocery Delivery Subscription](/imgs/UX writing challenges/grocery delivery subscription.png)  
 
 ### Why This Solution Works
-This solution effectively combines an engaging tone, clear value, and a low-friction CTA to attract attention, build interest, and drive action. It’s designed to convert casual curiosity into immediate sign-ups.
-#### Playful and Attention-Grabbing Header:
-The header employs a lighthearted, conversational tone to grab attention and convey excitement. This tone makes the service feel approachable and fresh, engaging users emotionally. Plus, the double meaning of "big deal"—it's a big *value proposition* and it's *important*—might be appreciated by the astute reader.
-#### Clear and Relatable Value Proposition:
-"Skip the lines and shop from home" directly addresses a common pain point (waiting in lines) while presenting the solution (convenience of shopping from home). It aligns with the user’s immediate context—being in a busy supermarket.
-#### Simple Pricing Information:
-"For just $10 extra" is straightforward and transparent, making the cost easy to understand. This transparency helps build trust and makes the offer feel like a no-brainer.
-#### Concise and Engaging Copy:
-The message is short, to the point, and free of jargon, respecting the user's time while delivering the core value of the service.
-#### Strong Call to Action (CTA):
-"Sign me up!" is enthusiastic and action-oriented, reflecting the service’s simplicity and ease. People hate subscribing and signing up for things, but by framing the service in the first-person, we use the psychological tactic of making the user thinking, "*I'm* going to save so much time and effort by signing up." Another psychological tactic is FOMO:  "No, thanks" has a finality to it. If they don't sign up now, they might never get another chance (of course, that's not how it works, but that's how it feels). The fear of missing out on a limited-time opportunity is powerful.
-#### Context-Aware:
-The microcopy complements the user's current experience of being in the supermarket, presenting the service as a way to make future trips easier or unnecessary.
+The difficulty with this one is communicating that this subscription service only covers *one delivery per month*, not **monthly* deliveries. Since the main goal of a promo screen is to get users to the sign-up screen, one could argue that a better strategy would be to explain the fine print later. But I believe transparency is the best way to retain customers over the long run and that the value proposition is still high enough to convert loyal shoppers who already have the supermarket app. 
+#### Engaging, Relatable, and Context-Aware Headline:
+"Let us get those bags for you." uses a conversational and friendly tone. It appeals to shoppers who dislike the hassle of carrying groceries, immediately highlighting the value of convenience. Further, the heading complements the user's current experience of being in the supermarket, presenting the service as a way to make future trips easier or unnecessary.
+#### Clear and Compelling Value Proposition:
+The body emphasizes simplicity and savings: "For just $10/month" makes the cost transparent, while "choose as many items as you like" removes concerns about limitations. This clarity helps users see the value of the service without overloading them with details.
+#### Actionable Instructions:
+The body explains exactly how the service works: open the app, shop, and select a delivery date. This step-by-step breakdown minimizes confusion and builds confidence in trying something new.
+#### First Person Primary Call to Action (CTA):
+"Sign me up!" is enthusiastic, action-driven, and framed in the first person, making the user feel like they’re actively choosing a great idea for themselves.
+#### Thoughtful Secondary CTA:
+Including "No, thanks" as an alternative button shows respect for the user’s choice while subtly reinforcing the primary button as the more attractive option. Rather than using "Remind me later," which most users would tap if they're busy shopping in a supermarket, the secondary CTA leverages the psychological tactic of FOMO: if the user says "No" now, they might not get another chance to take advantage of this value prop (of course, that wouldn't be the case, but loss aversion is a powerful tool).
 
 ## A Fiery Push Notification
 ### Scenario
@@ -156,7 +154,7 @@ A user is creating an account. When they come to the step where they are asked t
 Write an error message that prompts them to fix the error without shaming them for having a fake-sounding name.  
   
 **45 characters max**   
-![payment method expired](/imgs/UX writing challenges/fake name.png)
+![Fake name](/imgs/UX writing challenges/fake name.png)
 ### Why This Solution Works
 This is a sensitive one. The last thing I wanted to do was offend a user with a very real name (I chose the real name of a Korean Pop Star) that the system flags as "fake." The role of the UX Writer here is not necessarily to solve the problem with words but to be sensitive and not shame, irritate, or discourage the user further.
 #### Reframes the Error as a Security Measure
@@ -171,14 +169,14 @@ Write a push notification alerting him of this dilemma and his options.
 **Headline:** 30 characters max  
 **Body:** 45 characters max  
 **Button(s):** 25 characters max    
-![Flight Cancellation](/imgs/tvh-ux-writing/homepage-hero-pre-2-0_orig.jpg) 
-### Rationale
-There’s a lot to tell the driver:
+![Delivery Driver App](/imgs/UX writing challenges/delivery driver app.png)
+### Why This Solution Works
+This challenge highlighted the problem with all hypothetical UX writing: we know very little about the users and what they desire from the app. Do they want to be told what to do, like a Formula 1 driver following orders from his engineer? Or do they want information and autonomy?  In the end, I chose the latter, attempting to empathize with the driver while still providing them with enough information to make a choice. In an ideal world, the app would know the most efficient plan. For example, based on traffic data, the app might suggest it would be more efficient to get off the road now and wait for traffic to clear. Alternatively, if the data suggests it will only get worse, the driver might want to make as many deliveries as possible and skip lunch. Another point: is the driver at risk of running out of fuel if they push through?
+#### Headline Respects Driver's Experience/Expertise:
+"3 stops behind—your call" gives the driver the necessary information to make a tough decision.
+#### Supportive Tone in the Body:
+Phrases like "Grab fuel & lunch now" and "push through a few stops" feel conversational and empathetic, acknowledging the driver's hard work without adding pressure.
+#### Clear and Friendly Buttons:
+The button labels are approachable and action-driven, offering a gentle nudge toward self-care ("Fuel Up & Eat") or letting the driver continue as planned ("Keep Going").
 
-- Traffic is causing delays.
-- They have 6 deliveries before they planned to refuel and eat lunch.
-- They might run out of fuel if they attempt to complete those 6 deliveries.
-- They’re behind schedule and will be even more behind schedule if they sit in traffic.
-- Their options are to postpone refueling and lunch or postpone deliveries and go refuel.  
-It's impossible to explain everything in a short push notification, so I tried to give the driver the most important information and a simple decision. Their vehicle's dashboard would display their fuel levels and the driver is likely aware of the traffic.  So instead of asking the driver if they want to avoid traffic and get off the road, I focused on what the app is designed for: delivery management and scheduling. The driver planned to refuel at a certain time, so it’s the app's responsibility to tell them when that is and if they’re on schedule. 
-I used the term "pit stop," which encapsulates both *a break* and *refueling.*  
+
