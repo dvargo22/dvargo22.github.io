@@ -124,7 +124,7 @@ When surveyed, 5/5 testers said the flow was significantly improved. Testers too
 |![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)|![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png)|
 *Instructor feedback from the UXCC Final Project.*
 
-![Handshake App Before](/1-UXWC Fundamentals Course - Final Project_duplicate (Copy))
+![Handshake App Before](/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)
 *The Handshake app before my edits.*
 |||
 |---|---|
