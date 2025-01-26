@@ -110,7 +110,7 @@ When surveyed, 5/5 testers said the flow was significantly improved. Testers too
 |![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)|![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png)|
 <p float="left">
   <img src="/imgs/Handshake UI Edits/finalscore_1.png" width="100" />
-  <img src="//imgs/Handshake UI Edits/finalscore_1.png" width="100" /> 
+  <img src="/imgs/Handshake UI Edits/feedback_orig.png" width="100" /> 
 </p>
 ## Lessons Learned
 As a rule, involving the UX writer early makes for a more streamlined design process. Had I been involved earlier, more design flaws could have been identified and testing the prototype would have been more cost-effective. I would have loved to work with designers to create single-task screens with personality-rich copy. Instead, most screens had multiple components, forcing the UI copy to be ultra-spare. In addition, there were some components that I didn't understand. In those cases, I would have asked engineers to describe the component to me in their own words so I could translate it to the user. Engineers also could have given me guidelines on things like character limits. In short, collaboration would have improved my writing, which ultimately increases retention and revenue.
