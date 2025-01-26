@@ -21,9 +21,9 @@ There are two user types:
 
 Each user views one side of the app. The app assumes they already know each other and have agreed to work together.
 
-### Client Onboarding Flow
+### Client Project Onboarding Flow
 
-After the user has created a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client is required to provide critical details about the project in a flow called **project onboarding**. This case study explains how I wrote copy for this particular flow. 
+After the user has created a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client must provide critical details about the project in a flow called **project onboarding**. This case study explains how I wrote copy for this particular flow. 
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
 *The onboarding flow before my edits.*
 
@@ -38,13 +38,13 @@ Create a logical and personable flow that reduces friction and encourages retent
 
 ## CONSTRAINTS
 
-- Time. This was a fictional project and I was encouraged to spend no more than a few days working on it.
-- The design could not be fundamentally changed. Because the app is fictional, I was not able to communicate with the designer about their intentions for design components or ask them to make changes.
+- Time. This was a fictional project and I was encouraged to spend no more than a few days working on the entire end-to-end experience.
+- The design could not be fundamentally changed. As previously  mentioned, the app is fictional; I was therefore unable to communicate with the designer about their intentions for design components or ask them to make changes. I did end up making some design changes on my own. 
 
 ## MY PROCESS
 ### Identifying problems with testing and affinity mapping
 I enlisted five users (friends) to test the client onboarding flow. I monitored their progress and asked them questions when they encountered friction. I also asked them to note the various points in the experience where they would drop out if they were using the app in real life. At the end of the test, they provided written feedback.
-![Affinity Mapping](stickynotes-feedback3_orig.png)
+![Affinity Mapping](/imgs/Handshake UI Edits/stickynotes-feedback3_orig.png)
 *The yellow sticky notes are snippets of feedback from testers. The red sticky notes are the two overarching problems I identified from this feedback.*
 
 Ultimately, the client-facing project onboarding flow had three overarching problems:
@@ -66,7 +66,7 @@ To start, I needed to find out who our users were and how we could meet their ne
 **Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it uncomfortable to negotiate her rates via email or telephone.
 |||
 |---|---|
-|![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.jpg)|![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.jpg)|
+|![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg)|![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg)|
 ### **Voice mad libs**
 
 To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses, I reached a consensus on the following statements:
