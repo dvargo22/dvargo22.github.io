@@ -64,9 +64,9 @@ Who were our users and how could I meet their needs? The following personas were
 **Tom**, the client user persona, is low-tech and needs a simple tool to track and pay a freelancer to develop his website. 
 
 **Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it stressful to negotiate her rates via email or telephone.
+| | |
 |---|---|
-|---|---|
-|![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg)|![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg)|
+| ![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg) | ![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg) |
 ### **Voice mad libs**
 
 To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses (and writing a few of my own on behalf of Tom and Kelly), I reached a consensus on the following statements:
