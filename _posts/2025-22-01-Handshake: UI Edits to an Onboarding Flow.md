@@ -59,17 +59,17 @@ After identifying the main problems with the UI copy, I needed to establish a br
 
 #### User personas
 
-To start, I needed to find out who our users were and how we could meet their needs. The following personas were provided by UXCC:
+Who were our users and how could I meet their needs? The following personas were provided by UXCC:
 
 **Tom**, the client user persona, is low-tech and needs a simple tool to track and pay a freelancer to develop his website. 
 
-**Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it uncomfortable to negotiate her rates via email or telephone.
-|||
+**Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it stressful to negotiate her rates via email or telephone.
+|---|---|
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg)|![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg)|
 ### **Voice mad libs**
 
-To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses, I reached a consensus on the following statements:
+To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses (and writing a few of my own on behalf of Tom and Kelly), I reached a consensus on the following statements:
 
 - I want our app to make people feel **[ empowered ].**
 - I want people to **[ sigh with relief ]** when they interact with our products.
@@ -99,7 +99,7 @@ To illustrate how Handshake should sound, I mocked up screens for a mobile landi
 
 ## SOLUTION
 
-To address the problems discussed above, the following solutions were implemented:
+To address the problems discussed above, I implemented the following solutions:
 
 - Added a progress bar (Steps) at the top, easing user anxiety about how long onboarding would take. Additionally, the steps allow the user to navigate back and forth between screens in the flow.
 - Applied a conversational, human voice to build affinity for the product.
@@ -111,12 +111,16 @@ To address the problems discussed above, the following solutions were implemente
 - Replaced “paper checks” as a payment option with “bank transfer.” Users have chosen Handshake because they want to make and receive payments *digitally*; moreover, the app would not be able to facilitate or verify payment through paper checks. “Bank Transfer” was chosen over “Direct Deposit” because a bank transfer works for both users, whereas a direct deposit only makes sense for the freelancer who receives money.
 - Celebrated user success with personal touches, ensured they knew what just happened and what would happen next, and encouraged them to move forward in the experience.
 
-
+### Before
+![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
+*
+### After
+![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)
 ## RESULTS
-When surveyed, 5/5 testers said the flow was significantly improved. Testers took 20% less time to complete the revised flow. There were no drop-off points and users were thankful for reassurance, transparency, and for easing anxiety about what will happen when they perform an action.  
-​More broadly, I achieved a score of over 100% on the final project for excellent use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
+When surveyed, 5/5 testers said the flow was significantly improved. Testers took 20% less time to complete the revised flow. There were no drop-off points and users were thankful for reassurance and transparency. One user said, "You successfully eased my anxiety about what would happen when I completed an action."  
+In terms of course feedback, I scored over 100% on the final project for excellent use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
 
-|||
+|---|---|
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)|![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png)|
 *Instructor feedback from the UXCC Final Project.*
