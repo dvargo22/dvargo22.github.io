@@ -43,7 +43,7 @@ Create a logical and personable flow that reduces friction and encourages retent
 
 ## MY PROCESS
 ### Identifying problems with testing and affinity mapping
-I enlisted five users (friends) to test the client onboarding flow. I monitored their progress and asked them questions when they encountered friction. I also asked them to note the various points in the experience where they would drop out if they were using the app in real life. At the end of the test, they provided written feedback.
+I enlisted five users (friends) to test the client onboarding flow (the "Before" version). I monitored their progress and asked them questions when they encountered friction. At the end of the test, they provided written feedback.
 ![Affinity Mapping](/imgs/Handshake UI Edits/stickynotes-feedback3_orig.png)
 *The yellow sticky notes are snippets of feedback from testers. The red sticky notes are the two overarching problems I identified from this feedback.*
 
@@ -67,7 +67,7 @@ Who were our users and how could I meet their needs? The following personas were
 | | |
 |---|---|
 | ![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg) | ![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg) |
-### **Voice mad libs**
+#### **Voice mad libs**
 
 To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses (and writing a few of my own on behalf of Tom and Kelly), I reached a consensus on the following statements:
 
@@ -76,9 +76,9 @@ To establish Handshake’s brand values and voice, I asked friends who freelance
 - I don’t like companies that sound **[ arrogant/self-righteous ]**.
 - I’d like to mimic the voice of a **[ friendly coworker ]**.
 
-### Brand voice chart
+#### Brand voice chart
 
-After developing our user personas and deciding on Handshake's brand values, I documented the core voice characteristics of Handshake.
+After developing our user personas and deciding on Handshake's brand values, I documented the core voice characteristics of Handshake.  
 | Characteristic | Description | Do | Don't |
 |---|---|---|---|
 | No nonsense | Handshake’s voice is human, authentic, and down-to-earth. | Use words that everyone understands. | Alienate users with jargon. |               
@@ -88,12 +88,12 @@ After developing our user personas and deciding on Handshake's brand values, I d
 | Reassuring | Encourage users to complete tasks on their own, but always be ready to jump in with a helping hand. | Alleviate doubts with helpful hint text, tooltips, and microcopy, and always be consistent with terminology. | Blame users. |
 
 
-### The brand voice in action
+#### The brand voice in action
 
 In addition to the voice chart, I documented content patterns, rules for grammar, punctuation, and capitalization, and outlined general style guidelines to follow throughout the interface. 
 
-To illustrate how Handshake should sound, I mocked up screens for a mobile landing page and app cancellation message.
-|||
+To illustrate how Handshake should sound, I mocked up screens for a mobile landing page and app cancellation message.  
+| | |
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/landingpage-final_orig.png)|![UXCC Feedback](/imgs/Handshake UI Edits/cancellation-email.png)|
 
