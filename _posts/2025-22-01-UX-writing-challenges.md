@@ -7,6 +7,7 @@ tag: [UI design, wireframing, UX writing, Prototyping, Content Strategy, Brand V
 ---
 ## Introduction
 I put my UX writing skills to the test with Ryan Farrell’s [Daily UX Writing Challenges](https://dailyuxwriting.com/). The following is a sample of responses that I mocked up in Figma.  
+**Note**: These challenges were completed in December 2021. Since then, Ryan has edited and replaced some of the challenges. 
 
 
 ## Flight Cancellation Message
