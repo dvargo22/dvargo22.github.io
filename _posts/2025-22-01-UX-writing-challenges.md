@@ -20,24 +20,23 @@ Write a message from the airline app notifying them of the cancellation and what
 ![Flight Cancellation](/imgs/UX writing challenges/flight-cancellations-final.png)  
 
 ### Why This Solution Works  
-I found the character limits for this challenge needlessly confining and unrealistic. Brevity at the cost of clarity and usability is a UX no-no, and this is a scenario where the airline does not want to come off as curt. Nevertheless, I provided two solutions: one within the limits and a longer version that better balances empathy, clarity, and user empowerment, making a frustrating experience more manageable.  
+I found the character limits for this challenge needlessly confining and unrealistic. Brevity at the expense of clarity and empathy is a UX no-no, and this is a scenario where the airline might risk losing a customer if they come off as curt or unhelpful. Nevertheless, I provided two solutions: a "short" version within the character limits and a "long" version that better balances empathy, clarity, and user empowerment.  
 #### Empathy and Transparency:
 - Opening with an acknowledgment of the inconvenience builds trust and shows empathy.
 - Explaining the reason for cancellation (bad weather) reassures travelers it’s out of the airline’s control.
-- Explaining that there is no advantage to contacting a Reservations specialist saves users time and effort—avoiding unnecessary trips to the check-in desk, re-clearing security, or frustrating phone calls—while easing the load on customer support.
+- Explaining that there is no advantage to contacting a Reservations specialist saves users time and effort. It prevents a frustrating phone call or an unnecessary trip to the check-in desk (not to mention another long wait in the security screening line) and eases the load on customer support.
 #### Clarity and Simplicity:
-- Two clear options are provided up front, with easy-to-understand language and no ambiguity about the next steps.
+Two clear options are provided, with easy-to-understand language and no ambiguity about the next steps.
 #### Actionable CTAs:  
-- The "Find a New Flight" button encourages quick action for those who need to rebook.
-- Reassuring that a refund will be automatic (with a timeline) prevents confusion or additional effort for the user.
+The "Find a New Flight" button encourages quick action for those who need to rebook.
+Reassuring that a refund will be automatic (with a timeline) prevents confusion or additional effort for the user.
 #### Positive Framing:
-- Instead of focusing solely on the inconvenience, the message emphasizes solutions and safety, softening the blow of the cancellation. Even the heading is encouraging, giving the user a feeling of empowerment rather than defeat. 
+Instead of focusing solely on the inconvenience, the message emphasizes solutions and safety, softening the blow of the cancellation. Even the heading is encouraging, giving the user a feeling of empowerment rather than defeat. 
 #### Accessibility:
-- Short sentences, simple language ('bad' not 'inclement', 'new flight' not 'alternative flight'), straightforward instructions, and optional customer support links make the message accessible to all users, regardless of stress levels or language proficiency.
+Short sentences, simple language ('bad' not 'inclement', 'new flight' not 'alternative flight'), straightforward instructions, and optional customer support links make the message accessible to all users, regardless of stress levels or language proficiency.
 
 
 ## Sports App Promo Screen
-By balancing clarity, relevance, and a compelling CTA, this solution is designed to attract users and encourage them to engage with the app immediately.
 ### Scenario
 A user is a working parent, and a big sports fan, in the midst of their favorite sports season who can no longer attend games.  
 Write a promotional screen for an app that lets a user choose teams, sends game reminders, real-time score updates and highlight videos.    
@@ -46,8 +45,9 @@ Write a promotional screen for an app that lets a user choose teams, sends game 
 **Button(s):** 25 characters max     
 ![Sports app promo screen](/imgs/UX writing challenges/sports app promo screen.png)  
 ### Why This Solution Works  
+By balancing clarity, relevance, and a compelling CTA, this solution is designed to attract users and encourage them to engage with the app immediately.
 #### Tailored to the User's Situation:
-The header directly addresses the target audience: sports fans who can't attend games but still want to stay connected. It emphasizes that they can follow their favorite team no matter where they are, resonating with the user's lifestyle.
+The header directly addresses the target audience: sports fans who can't attend games or watch from home but still want to stay connected. It emphasizes that they can follow their favorite team no matter where they are, resonating with the user's lifestyle.
 #### Concise and Impactful Body Copy:
 The body copy is short, to the point, and covers the app’s core features: game reminders, score updates, and highlight reels. It avoids unnecessary detail while clearly communicating the app's value.
 #### Appealing to the On-the-Go User:
@@ -63,7 +63,7 @@ The user entered the wrong email address to sign in to their account. Tell the u
 **40 characters max**   
 ![Wrom Email Address](/imgs/UX writing challenges/wrong email.png)  
 ### Why This Solution Works
-The best solution to this error is good design and development. Visual aids, such as a red outline around the form field, are more effective than clear UX writing. 
+The microcopy in this solution is complemented by user-friendly design and development. Visual aids, such as a red outline around the form field, are as effective as clear UX writing. 
 #### Clarity and Simplicity:
 The message uses clear, everyday language that’s easy to understand. "We don't recognize that email" directly tells the user what went wrong, while "Try again" provides an actionable next step.
 #### Conciseness:
@@ -83,9 +83,9 @@ A user is in their favorite supermarket. They open the supermarket’s app on th
 ![Grocery Delivery Subscription](/imgs/UX writing challenges/grocery delivery subscription.png)  
 
 ### Why This Solution Works
-The difficulty with this one is communicating that this subscription service only covers *one delivery per month*, not **monthly* deliveries. Since the main goal of a promo screen is to get users to the sign-up screen, one could argue that a better strategy would be to explain the fine print later. But I believe transparency is the best way to retain customers over the long run and that the value proposition is still high enough to convert loyal shoppers who already have the supermarket app. 
+The challenge here is clarifying that the subscription covers *one delivery per month* rather than unlimited deliveries or *monthly* deliveries, which is vague. While a promo screen’s primary goal is to drive sign-ups, I believe transparency upfront builds long-term trust. The value proposition remains compelling enough to convert loyal app users despite this concession.
 #### Engaging, Relatable, and Context-Aware Headline:
-"Let us get those bags for you." uses a conversational and friendly tone. It appeals to shoppers who dislike the hassle of carrying groceries, immediately highlighting the value of convenience. Further, the heading complements the user's current experience of being in the supermarket, presenting the service as a way to make future trips easier or unnecessary.
+"Let us get those bags for you" is conversational and friendly, reminding the user of a helpful clerk. It's also not obvious what it means, sparking the user's curiosity to read on: "What does this mean? I don't have to carry  my bags?" It appeals to shoppers who dislike the hassle of carrying groceries, immediately highlighting the value of convenience. Further, the heading complements the user's current experience of being in the supermarket, presenting the service as a way to make future trips easier or unnecessary.
 #### Clear and Compelling Value Proposition:
 The body emphasizes simplicity and savings: "For just $10/month" makes the cost transparent, while "choose as many items as you like" removes concerns about limitations. This clarity helps users see the value of the service without overloading them with details.
 #### Actionable Instructions:
@@ -93,7 +93,7 @@ The body explains exactly how the service works: open the app, shop, and select 
 #### First Person Primary Call to Action (CTA):
 "Sign me up!" is enthusiastic, action-driven, and framed in the first person, making the user feel like they’re actively choosing a great idea for themselves.
 #### Thoughtful Secondary CTA:
-Including "No, thanks" as an alternative button shows respect for the user’s choice while subtly reinforcing the primary button as the more attractive option. Rather than using "Remind me later," which most users would tap if they're busy shopping in a supermarket, the secondary CTA leverages the psychological tactic of FOMO: if the user says "No" now, they might not get another chance to take advantage of this value prop (of course, that wouldn't be the case, but loss aversion is a powerful tool).
+Including "No, thanks" as an alternative button shows respect for the user’s choice while subtly reinforcing the primary button as the more attractive option. Rather than "Remind me later," which most users would default to if they're busy shopping in a supermarket, the secondary CTA leverages the psychological tactic of FOMO: if the user says "No" now, they might never get a chance to take advantage of this value prop (of course, that wouldn't be the case, but loss aversion is a powerful tool).
 
 ## A Fiery Push Notification
 ### Scenario
@@ -132,7 +132,10 @@ Tell the user that one of their favorite bands is playing live in their town. Ho
 **Button:** 25 characters    
 ![Live Music](/imgs/UX writing challenges/music app.png)  
 ### Why This Solution Works
+#### Only the Essentials
 The pop-up reads like a flyer tacked onto a telephone pole. I tried to create a sense of urgency in the heading and only included the essentials in the body to make it easily scannable.
+#### Catchy CTA
+"Get Tix" employs the vernacular of music fans. And "Remind me later" gives the user time to check with friends to see if they're free on the night of the concert. 
 
 ## Payment Method Error
 The user is trying to rent a car using an application but the credit card on file has expired.  
@@ -158,7 +161,7 @@ Write an error message that prompts them to fix the error without shaming them f
 ### Why This Solution Works
 This is a sensitive one. The last thing I wanted to do was offend a user with a very real name (I chose the real name of a Korean Pop Star) that the system flags as "fake." The role of the UX Writer here is not necessarily to solve the problem with words but to be sensitive and not shame, irritate, or discourage the user further.
 #### Reframes the Error as a Security Measure
-This is ultimately a software problem. If the user has entered their actual name with no typos, no amount of re-entering the name will resolve the error. So we need to provide the user with a workaround to validate their name without suggesting that the system thinks the name is fake. By sending a simple email verification, the message completely circumvents suggesting the name is fake—or worse "invalid"—and reframes the error as a security measure, turning a negative into a positive. This would be an easily implemented solution for any software team. 
+This is ultimately a software problem. If the user has entered their actual name with no typos, no amount of re-entering the name will resolve the error. So we need to provide the user with a workaround to validate their name without suggesting that the system thinks the name is fake. By sending a simple email verification, the message completely circumvents suggesting the name is fake—or worse, "invalid"—and reframes the error as a security measure, turning a negative into a positive. This would be an easily implemented solution for any software team. 
 
 
 ## Truck Driver Behind Schedule 
@@ -171,8 +174,8 @@ Write a push notification alerting him of this dilemma and his options.
 **Button(s):** 25 characters max    
 ![Delivery Driver App](/imgs/UX writing challenges/delivery driver app 2.png)
 ### Why This Solution Works
-This challenge highlighted the problem with all hypothetical UX writing: we know very little about the users and what they desire from the app. Do they want to be told what to do, like a Formula 1 driver following orders from his engineer? Or do they want information and autonomy?  In the end, I chose the latter, attempting to empathize with the driver while still providing them with enough information to make a choice. In an ideal world, the app would know the most efficient plan. For example, based on traffic data, the app might suggest it would be more efficient to get off the road now and wait for traffic to clear. Alternatively, if the data suggests it will only get worse, the driver might want to make as many deliveries as possible and skip lunch. Another point: is the driver at risk of running out of fuel if they push through?
-#### Headline Respects Driver's Experience/Expertise:
+This challenge highlighted the problem with all hypothetical UX writing: we know very little about the users and what they desire from the app. Do they want to rely on the app, like a Formula 1 driver following orders from an engineer? Or do they want information and autonomy?  In the end, I chose the latter, attempting to empathize with the driver while still providing them with enough information to make a choice. In an ideal world, the app would steer the user in the right direction. For example, based on traffic data, the app might suggest it would be more efficient to get off the road now and wait for traffic to clear. Alternatively, if the data suggests it will only get worse, the driver might want to make as many deliveries as possible and skip lunch. Another point: Is the driver at risk of running out of fuel if they push through?
+#### Headline Respects Driver's Experience and Expertise:
 "3 stops behind—your call" gives the driver the necessary information to make a tough decision.
 #### Supportive Tone in the Body:
 Phrases like "Grab fuel & lunch now" and "push through a few stops" feel conversational and empathetic, acknowledging the driver's hard work without adding pressure.
