@@ -5,10 +5,15 @@ date: 21-01-2025
 categories: [UX writing]
 tag: [case study, UX writing, microcopy, wireframing, prototyping, brand voice and tone, content strategy, UI design]
 ---
+## Introduction to the Case Study
+This case study concerns one flow in the UX Content Collective [UX Writing Fundamentals](https://uxcontent.com/uxwc-the-fundamentals-course/) course final project. 
 
-## About the Handshake App
+## Background
 
-Handshake is a **fictional mobile payment app designed for the UX Content Collective [UX Writing Fundamentals](https://uxcontent.com/uxwc-the-fundamentals-course/) course final project. The app provides a safe and simple way for clients to pay freelancers and manage projects. 
+Handshake is a *fictional* mobile payment app designed for the UX Content Collective [UX Writing Fundamentals](https://uxcontent.com/uxwc-the-fundamentals-course/) course final project. The final project required students to edit the UI copy for an end-to-end user experience. The work was completed in November 2021. 
+
+### The Handshake App
+The Handshake app provides a safe and simple way for clients to pay freelancers and manage projects. Think of it as Venmo tailored to freelance work transactions. 
 
 There are two user types:
 
@@ -18,17 +23,17 @@ There are two user types:
 
 Each user views one side of the app. The app assumes they already know each other and have agreed to work together.
 
-## Client Onboarding Flow
+### Client Onboarding Flow
 
-After the user has created a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client is required to provide critical details about the project in a flow called **project onboarding**.
+After the user has created a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client is required to provide critical details about the project in a flow called **project onboarding**. This case study explains how I wrote copy for this particular flow. 
 
 ## The Problems
 
 The client-facing project onboarding flow had three overarching problems:
 
 1. The UI lacked helpful labels, hint text, and microcopy to guide and reassure the user.
-2. The voice and terminology were impersonal and inconsistent, namely because they did not adhere to any brand voice guidelines. Users had no trust in or affinity for the product.
-3. Critical design affordances were missing or poorly chosen for the context. For example, checkboxes communicate to users that multiple options can be selected. However, in the context of payment setup, a user should only be allowed to set up one default payment method.
+2. The voice and terminology were impersonal and inconsistent, in part due to a lack of brand voice guidelines. Users had no trust in or affinity for the product.
+3. Critical design affordances were missing or poorly chosen for the context. For example, checkboxes communicate to users that multiple options can be selected. However, in the context of a *default* payment setup, a user should only be allowed to select one payment method.
 
 ## Objective
 
