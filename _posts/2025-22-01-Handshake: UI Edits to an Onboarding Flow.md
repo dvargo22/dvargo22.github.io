@@ -27,14 +27,6 @@ After the user has created a Handshake account, they are prompted to start their
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
 *The onboarding flow before my edits.*
 
-## PROBLEMS
-
-The client-facing project onboarding flow had three overarching problems:
-
-1. The UI lacked helpful labels, hint text, and microcopy to guide and reassure the user.
-2. The voice and terminology were impersonal and inconsistent, in part due to a lack of brand voice guidelines. Users had no trust in or affinity for the product.
-3. Critical design affordances were missing or poorly chosen for the context. For example, checkboxes communicate to users that multiple options can be selected. However, in the context of a *default* payment setup, a user should only be allowed to select one payment method.
-
 ## OBJECTIVE
 
 Create a logical and personable flow that reduces friction and encourages retention. The user (in this flow, a client) must accomplish the following tasks quickly and seamlessly:
@@ -50,10 +42,20 @@ Create a logical and personable flow that reduces friction and encourages retent
 - The design could not be fundamentally changed. Because the app is fictional, I was not able to communicate with the designer about their intentions for design components or ask them to make changes.
 
 ## MY PROCESS
+### Identifying problems with testing and affinity mapping
+I enlisted five users (friends) to test the client onboarding flow. I monitored their progress and asked them questions when they encountered friction. I also asked them to note the various points in the experience where they would drop out if they were using the app in real life. At the end of the test, they provided written feedback.
+![Affinity Mapping](stickynotes-feedback3_orig.png)
+*The yellow sticky notes are snippets of feedback from testers. The red sticky notes are the two overarching problems I identified from this feedback.*
+
+Ultimately, the client-facing project onboarding flow had three overarching problems:
+
+1. The UI lacked helpful labels, hint text, and microcopy to guide and reassure the user.
+2. The voice and terminology were impersonal and inconsistent, in part due to a lack of brand voice guidelines. Users had no trust in or affinity for the product.
+3. Critical design affordances were missing or poorly chosen for the context. For example, checkboxes communicate to users that multiple options can be selected. However, in the context of a *default* payment setup, a user should only be allowed to select one payment method.
 
 ### Brand voice and style guide
 
-Before I could begin editing the user interface, I needed to establish a brand voice that would resonate with users. The voice had to appeal to both tech-savvy freelancers and (potentially) low-tech clients. I also needed to create style guidelines, such as content patterns, a glossary of terms, and capitalization and punctuation rules.
+After identifying the main problems with the UI copy, I needed to establish a brand voice that would resonate with users. The voice had to appeal to both tech-savvy freelancers and (potentially) low-tech clients. I also needed to create style guidelines, such as content patterns, a glossary of terms, and capitalization and punctuation rules.
 
 #### User personas
 
@@ -64,7 +66,7 @@ To start, I needed to find out who our users were and how we could meet their ne
 **Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it uncomfortable to negotiate her rates via email or telephone.
 |||
 |---|---|
-|![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG)|![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG)|
+|![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.jpg)|![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.jpg)|
 ### **Voice mad libs**
 
 To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses, I reached a consensus on the following statements:
@@ -94,11 +96,6 @@ To illustrate how Handshake should sound, I mocked up screens for a mobile landi
 |||
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/landingpage-final_orig.png)|![UXCC Feedback](/imgs/Handshake UI Edits/cancellation-email.png)|
-### Affinity mapping to identify problems
-
-After learning about Handshake’s users and establishing the brand voice guidelines, I enlisted five users (friends) to test the client onboarding flow. I monitored their progress and asked them questions when there was friction. I also asked them to note the various points in the experience where they would drop out if they were using the app in real life. At the end of the test, they were given the opportunity to provide additional feedback.
-![Affinity Mapping](stickynotes-feedback3_orig.png)
-*The yellow sticky notes are snippets of feedback from testers. The red sticky notes are the two overarching problems I identified from this feedback.*
 
 ## SOLUTION
 
@@ -124,7 +121,7 @@ When surveyed, 5/5 testers said the flow was significantly improved. Testers too
 |![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)|![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png)|
 *Instructor feedback from the UXCC Final Project.*
 
-![Handshake App Before](/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)
+![Handshake App Before](/imgs/Handshake UI Edits/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)
 *The Handshake app before my edits.*
 |||
 |---|---|
