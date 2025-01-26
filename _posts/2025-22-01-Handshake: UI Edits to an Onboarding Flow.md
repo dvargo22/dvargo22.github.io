@@ -24,6 +24,8 @@ Each user views one side of the app. The app assumes they already know each othe
 ### Client Onboarding Flow
 
 After the user has created a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client is required to provide critical details about the project in a flow called **project onboarding**. This case study explains how I wrote copy for this particular flow. 
+![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
+*The onboarding flow before my edits.*
 
 ## PROBLEMS
 
@@ -95,7 +97,7 @@ To illustrate how Handshake should sound, I mocked up screens for a mobile landi
 ### Affinity mapping to identify problems
 
 After learning about Handshake’s users and establishing the brand voice guidelines, I enlisted five users (friends) to test the client onboarding flow. I monitored their progress and asked them questions when there was friction. I also asked them to note the various points in the experience where they would drop out if they were using the app in real life. At the end of the test, they were given the opportunity to provide additional feedback.
-![Affinity Mapping](stickynotes-feedback3_orig)
+![Affinity Mapping](stickynotes-feedback3_orig.png)
 *The yellow sticky notes are snippets of feedback from testers. The red sticky notes are the two overarching problems I identified from this feedback.*
 
 ## SOLUTION
@@ -126,7 +128,7 @@ When surveyed, 5/5 testers said the flow was significantly improved. Testers too
 *The Handshake app before my edits.*
 |||
 |---|---|
-|![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end)|
+|![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg.png)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end.png)|
 |*The Handshake app after my edits. Screens with pink text are not discussed in this case study.*|*Part 2 of my edits.*|
 
 
