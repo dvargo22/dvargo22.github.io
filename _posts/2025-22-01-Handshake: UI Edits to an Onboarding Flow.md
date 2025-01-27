@@ -1,12 +1,12 @@
 ---
 layout: post
-title: UI Edits to an Onboarding Flow
+title: Onboarding Flow in the Handshake App
 date: 21-01-2025
 categories: [UX writing]
 tag: [case study, UX writing, microcopy, wireframing, prototyping, brand voice and tone, content strategy, UI design]
 --- 
 
-## BACKGROUND
+## Background
 
 **Handshake** is a *fictional* mobile payment app designed for the UX Content Collective [UX Writing Fundamentals](https://uxcontent.com/uxwc-the-fundamentals-course/) course final project. The final project required students to edit the UI copy for an end-to-end user experience. The work was completed in November 2021. 
 
@@ -27,21 +27,21 @@ After the user has created a Handshake account, they are prompted to start their
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
 *The onboarding flow before my edits.*
 
-## OBJECTIVE
+## Objective
 
-Create a logical and personable flow that reduces friction and encourages retention. The user (in this flow, a client) must accomplish the following tasks quickly and seamlessly:
+The user (in this flow, a client) must accomplish the following tasks quickly and seamlessly:
 
 - Name the project
 - Describe the project
 - Provide their preferred payment method and payment information
 - Invite a freelancer to join the project
 
-## CONSTRAINTS
+## Constraints
 
-- Time. This was a fictional project and I was encouraged to spend no more than a few days working on the entire end-to-end experience.
+- Time. This was a fictional project and I was encouraged to spend no more than a few days working on the entire end-to-end experience. (To see my edits for the entire app, go to [Results](##Results))
 - The design could not be fundamentally changed. As previously  mentioned, the app is fictional; I was therefore unable to communicate with the designer about their intentions for design components or ask them to make changes. I did end up making some design changes on my own. 
 
-## MY PROCESS
+## My Process
 ### Identifying problems with testing and affinity mapping
 I enlisted five users (friends) to test the client onboarding flow (the "Before" version). I monitored their progress and asked them questions when they encountered friction. At the end of the test, they provided written feedback.
 ![Affinity Mapping](/imgs/Handshake UI Edits/stickynotes-feedback3_orig.png)
@@ -98,7 +98,7 @@ To illustrate how Handshake should sound, I mocked up screens for a mobile landi
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/landingpage-final_orig.png)|![UXCC Feedback](/imgs/Handshake UI Edits/cancellation-email.png)|
 
-## SOLUTION
+## Solution
 
 To address the problems discussed above, I implemented the following solutions:
 
@@ -117,7 +117,7 @@ To address the problems discussed above, I implemented the following solutions:
 *
 ### After
 ![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)
-## RESULTS
+## Results
 When surveyed, 5/5 testers said the flow was significantly improved. Testers took 20% less time to complete the revised flow. There were no drop-off points and users were thankful for reassurance and transparency. One user said, "You successfully eased my anxiety about what would happen when I completed an action."  
 In terms of course feedback, I scored over 100% on the final project for excellent use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
 
@@ -134,7 +134,7 @@ In terms of course feedback, I scored over 100% on the final project for excelle
 |*The Handshake app after my edits. Screens with pink text are not discussed in this case study.*|*Part 2 of my edits.*|
 
 
-## LESSONS LEARNED
+## Lessons Learned
 As a rule, involving the UX writer early makes for a more streamlined design process. Had I been involved earlier, more design flaws could have been identified and testing the prototype would have been more cost-effective. I would have loved to work with designers to create single-task screens with personality-rich copy. Instead, most screens had multiple components, forcing the UI copy to be ultra-spare. In addition, there were some components that I didn't understand. In those cases, I would have asked engineers to describe the component to me in their own words so I could translate it to the user. Engineers also could have given me guidelines on things like character limits. In short, collaboration would have improved my writing, which ultimately increases retention and revenue.
 
 Further, I learned that without establishing brand voice and values, it is difficult to write consistent UI copy that builds affinity and trust among users. There are an infinite variety of clear and concise ways to convey a message: I needed the lodestar of a brand voice to guide my writing choices. 
