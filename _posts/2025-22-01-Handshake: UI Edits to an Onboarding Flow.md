@@ -114,16 +114,16 @@ To address the problems discussed above, I implemented the following solutions:
 
 ### Before
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
-*
+
 ### After
-![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)
+![Handshake Client Onboarding After](/imgs/Handshake UI Edits/Portfolio flow_final (1).png)
 ## Results
 When surveyed, 5/5 testers said the flow was significantly improved. Testers took 20% less time to complete the revised flow. There were no drop-off points and users were thankful for reassurance and transparency. One user said, "You successfully eased my anxiety about what would happen when I completed an action."  
 In terms of course feedback, I scored over 100% on the final project for excellent use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
 
+|  |  |
 |---|---|
-|---|---|
-|![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)|![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png)|
+| ![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png) | ![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png) |
 *Instructor feedback from the UXCC Final Project.*
 
 ![Handshake App Before](/imgs/Handshake UI Edits/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)
