@@ -64,9 +64,10 @@ Who were our users and how could I meet their needs? The following personas were
 **Tom**, the client user persona, is low-tech and needs a simple tool to track and pay a freelancer to develop his website. 
 
 **Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it stressful to negotiate her rates via email or telephone.
-| | |
-|---|---|
-| ![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg) | ![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg) |
+| Kelly | Tom |
+| --- | --- |
+| ![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg) | ![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg) |  
+
 #### **Voice mad libs**
 
 To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses (and writing a few of my own on behalf of Tom and Kelly), I reached a consensus on the following statements:
@@ -116,7 +117,7 @@ To address the problems discussed above, I implemented the following solutions:
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
 
 ### After
-![Handshake Client Onboarding After](/imgs/Handshake UI Edits/Portfolio flow_final (1).png)
+![Handshake Client Onboarding After](/imgs/Handshake UI Edits/onboarding flow after.png)
 ## Results
 When surveyed, 5/5 testers said the flow was significantly improved. Testers took 20% less time to complete the revised flow. There were no drop-off points and users were thankful for reassurance and transparency. One user said, "You successfully eased my anxiety about what would happen when I completed an action."  
 In terms of course feedback, I scored over 100% on the final project for excellent use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
