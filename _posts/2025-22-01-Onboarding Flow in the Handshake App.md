@@ -134,7 +134,8 @@ In terms of course feedback, I scored over 100% on the final project for excelle
 
 |  |  |
 |---|---|
-|![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg.png)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end.png)|
+|![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg.png)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end.png)|  
+
 *The Handshake app after my edits. Screens with pink text are not discussed in this case study.*
 
 
