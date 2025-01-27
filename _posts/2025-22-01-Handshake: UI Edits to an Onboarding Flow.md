@@ -38,7 +38,7 @@ The user (in this flow, a client) must accomplish the following tasks quickly an
 
 ## Constraints
 
-- Time. This was a fictional project and I was encouraged to spend no more than a few days working on the entire end-to-end experience. (To see my edits for the entire app, go to [Results](#Results))
+- Time. This was a fictional project and I was encouraged to spend no more than a few days working on the entire end-to-end experience. (To see my edits for the entire app, go to [Results](##results))
 - The design could not be fundamentally changed. As previously  mentioned, the app is fictional; I was therefore unable to communicate with the designer about their intentions for design components or ask them to make changes. I did end up making some design changes on my own. 
 
 ## My Process
