@@ -23,13 +23,13 @@ Each user views one side of the app. The app assumes they already know each othe
 
 ### Client Project Onboarding Flow
 
-After the user has created a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client must provide critical details about the project in a flow called **project onboarding**. This case study explains how I wrote copy for this particular flow. 
+After the user creates a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client must provide critical details about the project in a flow called **project onboarding**. This case study explains how I wrote copy for this particular flow. 
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
 *The onboarding flow before my edits.*
 
 ## Objective
 
-The user—the Client—must accomplish the following tasks quickly and seamlessly:
+The user—in this case, the Client—must accomplish the following tasks quickly and seamlessly:
 
 - Name the project
 - Describe the project
@@ -42,24 +42,24 @@ The user—the Client—must accomplish the following tasks quickly and seamless
 - The design could not be fundamentally changed. As previously  mentioned, the app is fictional; I was therefore unable to communicate with the designer about their intentions for design components or ask them to make changes. I did end up making some design changes on my own. 
 
 ## My Process
-### Identifying problems with testing and affinity mapping
-I enlisted five users (friends) to test the client onboarding flow (the "Before" version). I monitored their progress and asked them questions when they encountered friction. At the end of the test, they provided written feedback.
+### Identifying Problems: User Testing and Affinity Mapping
+I enlisted five users (friends) to test the client onboarding flow (the "Before" version). I monitored their progress and asked them questions when they encountered friction. At the end of the test, they provided written feedback. I wrote down salient pieces of feedback on sticky notes and placed them on a board for an affinity mapping exercise, ultimately identifying three overarching problems. 
 ![Affinity Mapping](/imgs/Handshake UI Edits/stickynotes-feedback3_orig.png)
-*The yellow sticky notes are snippets of feedback from testers. The red sticky notes are the two overarching problems I identified from this feedback.*
+*Affinity mapping mock-up. The yellow sticky notes are snippets of feedback from testers. The red sticky notes represent two of the three problems identified from this feedback.*
 
-Ultimately, the client-facing project onboarding flow had three overarching problems:
+### The Problems
 
 1. The UI lacked helpful labels, hint text, and microcopy to guide and reassure the user.
 2. The voice and terminology were impersonal and inconsistent, in part due to a lack of brand voice guidelines. Users had no trust in or affinity for the product.
 3. Critical design affordances were missing or poorly chosen for the context. For example, checkboxes communicate to users that multiple options can be selected. However, in the context of a *default* payment setup, a user should only be allowed to select one payment method.
 
-### Brand voice and style guide
+### Brand Voice and Style Guide
 
-After identifying the main problems with the UI copy, I needed to establish a brand voice that would resonate with users. The voice had to appeal to both tech-savvy freelancers and (potentially) low-tech clients. I also needed to create style guidelines, such as content patterns, a glossary of terms, and capitalization and punctuation rules.
+After identifying the main problems with the UI copy, I needed to establish a brand voice that would resonate with users. The voice had to appeal to both tech-savvy freelancers and (potentially) low-tech clients. 
 
 #### User personas
 
-Who were the users and how could I meet their needs? The following personas were provided by UXCC:
+Who were the users and how could I meet their needs? Thankfully, the following personas were provided by UXCC:
 
 **Tom**, the client user persona, is low-tech and needs a simple tool to track and pay a freelancer to develop his website. 
 
@@ -71,7 +71,7 @@ Who were the users and how could I meet their needs? The following personas were
 
 #### **Voice mad libs**
 
-To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs" by filling in the blanks of four sentences. After analyzing the responses (and writing a few of my own on behalf of Tom and Kelly), I reached a consensus on the following statements:
+To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs," shown below. After analyzing the responses (and writing a few of my own on behalf of Tom and Kelly), I reached a consensus on the following statements:
 
 - I want our app to make people feel **[ empowered ].**
 - I want people to **[ sigh with relief ]** when they interact with our products.
@@ -80,7 +80,7 @@ To establish Handshake’s brand values and voice, I asked friends who freelance
 
 #### Brand voice chart
 
-After developing our user personas and deciding on Handshake's brand values, I documented the core voice characteristics of Handshake.  
+After documenting Handshake's brand values, I summarized the core voice characteristics of Handshake in the following table:  
 
 | Characteristic | Description | Do | Don't |
 |---|---|---|---|
@@ -103,7 +103,7 @@ To illustrate how Handshake should sound, I mocked up screens for a mobile landi
 
 ## Solution
 
-To address the problems discussed above, I implemented the following solutions:
+Finally, it was time to write some microcopy. I implemented the following solutions to address the three problems discussed previously:
 
 - Added a progress bar (Steps) at the top, easing user anxiety about how long onboarding would take. Additionally, the steps allow the user to navigate back and forth between screens in the flow.
 - Applied a conversational, human voice to build affinity for the product.
@@ -121,14 +121,14 @@ To address the problems discussed above, I implemented the following solutions:
 ### After
 ![Handshake Client Onboarding After](/imgs/Handshake UI Edits/onboarding flow after.png)
 ## Results
-When surveyed, 5/5 testers said the flow was significantly improved. Testers took 20% less time to complete the revised flow. There were no drop-off points and users were thankful for reassurance and transparency. One user said, "You successfully eased my anxiety about what would happen when I completed an action."  
-In terms of course feedback, I scored over 100% on the final project for excellent use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
+After completing the first draft, I tested the copy with a single user to identify any glaring oversights or points of friction. This user acknowledged that the flow was significantly improved and especially preferred the specific, actionable buttons instead of the "Back" and "Go" buttons in the Before version. They also described the flow as "transparent, reassuring, and friendly." However, the user had reservations about the hint text in the "Project Description" and "Message" fields. They wondered if this boilerplate text would be automatically recorded if they did not edit it before going to the next screens. While this is more of a development question than a UX writing question, the feedback was useful, and were this not a hypothetical application, I would take another crack at the hint text in a subsequent prototype. If I were the UX designer, I would make sure each screen only requires a single task; in this case, I would afford an entire screen to the project description component, allowing users more space to enter a long-form explanation of the project.  
+In terms of course feedback, I scored over 100% on the final project. My instructor commended my use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
 
 | Final Score | Instructor Feedback |
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)|![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png)|
 
-### Before and After
+### The Final Project Before and After
 ![Handshake App Before](/imgs/Handshake UI Edits/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)  
 
 *The Handshake app end-to-end experience before my edits.*  
