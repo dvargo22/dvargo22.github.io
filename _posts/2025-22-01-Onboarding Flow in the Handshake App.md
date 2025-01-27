@@ -132,10 +132,10 @@ In terms of course feedback, I scored over 100% on the final project for excelle
 ![Handshake App Before](/imgs/Handshake UI Edits/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)
 *The Handshake app before my edits.*  
 
-|Part 1|Part 2|
+|  |  |
 |---|---|
 |![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg.png)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end.png)|
-|*The Handshake app after my edits. Screens with pink text are not discussed in this case study.*|*Part 2 of my edits.*|
+*The Handshake app after my edits. Screens with pink text are not discussed in this case study.*
 
 
 ## Lessons Learned
