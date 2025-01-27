@@ -63,7 +63,8 @@ Who were the users and how could I meet their needs? The following personas were
 
 **Tom**, the client user persona, is low-tech and needs a simple tool to track and pay a freelancer to develop his website. 
 
-**Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it stressful to negotiate her rates via email or telephone.
+**Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it stressful to negotiate her rates via email or telephone.  
+
 | Kelly | Tom |
 | --- | --- |
 | ![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg) | ![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg) |  
