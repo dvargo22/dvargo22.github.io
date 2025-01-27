@@ -65,7 +65,7 @@ Who were the users and how could I meet their needs? The following personas were
 
 **Kelly**, the freelancer user persona, is tech-savvy but fears complicated legal paperwork and finds it stressful to negotiate her rates via email or telephone.  
 
-| Kelly | Tom |
+| Freelancer | Client |
 | --- | --- |
 | ![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg) | ![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg) |  
 
@@ -128,9 +128,10 @@ In terms of course feedback, I scored over 100% on the final project for excelle
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png)|![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png)|
 
+### Before and After
+![Handshake App Before](/imgs/Handshake UI Edits/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)  
 
-![Handshake App Before](/imgs/Handshake UI Edits/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)
-*The Handshake app before my edits.*  
+*The Handshake app end-to-end experience before my edits.*  
 
 |  |  |
 |---|---|
