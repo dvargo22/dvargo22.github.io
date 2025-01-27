@@ -59,7 +59,7 @@ After identifying the main problems with the UI copy, I needed to establish a br
 
 #### User personas
 
-Who were our users and how could I meet their needs? The following personas were provided by UXCC:
+Who were the users and how could I meet their needs? The following personas were provided by UXCC:
 
 **Tom**, the client user persona, is low-tech and needs a simple tool to track and pay a freelancer to develop his website. 
 
