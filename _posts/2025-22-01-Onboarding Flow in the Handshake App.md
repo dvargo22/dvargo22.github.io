@@ -29,7 +29,7 @@ After the user has created a Handshake account, they are prompted to start their
 
 ## Objective
 
-The user (in this flow, a client) must accomplish the following tasks quickly and seamlessly:
+The user—the Client—must accomplish the following tasks quickly and seamlessly:
 
 - Name the project
 - Describe the project
@@ -96,7 +96,8 @@ After developing our user personas and deciding on Handshake's brand values, I d
 In addition to the voice chart, I documented content patterns, rules for grammar, punctuation, and capitalization, and outlined general style guidelines to follow throughout the interface. 
 
 To illustrate how Handshake should sound, I mocked up screens for a mobile landing page and app cancellation message.  
-| | |
+
+|  |  |
 |---|---|
 |![UXCC Final Score](/imgs/Handshake UI Edits/landingpage-final_orig.png)|![UXCC Feedback](/imgs/Handshake UI Edits/cancellation-email.png)|
 
@@ -123,14 +124,15 @@ To address the problems discussed above, I implemented the following solutions:
 When surveyed, 5/5 testers said the flow was significantly improved. Testers took 20% less time to complete the revised flow. There were no drop-off points and users were thankful for reassurance and transparency. One user said, "You successfully eased my anxiety about what would happen when I completed an action."  
 In terms of course feedback, I scored over 100% on the final project for excellent use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
 
-|  |  |
+| Final Score | Feedback |
 |---|---|
 | ![UXCC Final Score](/imgs/Handshake UI Edits/finalscore_1.png) | ![UXCC Feedback](/imgs/Handshake UI Edits/feedback_orig.png) |
 *Instructor feedback from the UXCC Final Project.*
 
 ![Handshake App Before](/imgs/Handshake UI Edits/1-UXWC Fundamentals Course - Final Project_duplicate (Copy).png)
-*The Handshake app before my edits.*
-|||
+*The Handshake app before my edits.*  
+
+|Part 1|Part 2|
 |---|---|
 |![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg.png)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end.png)|
 |*The Handshake app after my edits. Screens with pink text are not discussed in this case study.*|*Part 2 of my edits.*|
