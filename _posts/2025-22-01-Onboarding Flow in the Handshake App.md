@@ -23,13 +23,16 @@ Each user views one side of the app. The app assumes they already know each othe
 
 ### Client Project Onboarding Flow
 
-After the user creates a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client must provide critical details about the project in a flow called **project onboarding**. This case study explains how I wrote copy for this particular flow. 
+After the user creates a Handshake account, they are prompted to start their first "project," a shared workspace where clients can track and pay their freelancers. To create the project, the client must provide critical details about the project in a flow called **project onboarding**.  
+
+Although the UXCC Final Project required students to write microscopy for the entire end-to-end experience, this case study only explains how I wrote copy for the project onboarding flow. To see my edits for the entire app, go to [Results](#results)
+
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
 *The onboarding flow before my edits.*
 
 ## Objective
 
-The user—in this case, the Client—must accomplish the following tasks quickly and seamlessly:
+The user—the Client—must accomplish the following tasks quickly and seamlessly:
 
 - Name the project
 - Describe the project
@@ -38,12 +41,12 @@ The user—in this case, the Client—must accomplish the following tasks quickl
 
 ## Constraints
 
-- Time. This was a fictional project and I was encouraged to spend no more than a few days working on the entire end-to-end experience. (To see my edits for the entire app, go to [Results](#results))
-- The design could not be fundamentally changed. As previously  mentioned, the app is fictional; I was therefore unable to communicate with the designer about their intentions for design components or ask them to make changes. I did end up making some design changes on my own. 
+- Time: This was a final exam, and I was only allowed a few days to complete the microcopy for the entire end-to-end experience. 
+- Unalterable Design: Since the app is fictional, I could not ask a designer to make changes (and as part of the final exam, we were encouraged to make as few tweaks to the design as possible). 
 
 ## My Process
 ### Identifying Problems: User Testing and Affinity Mapping
-I enlisted five users (friends) to test the client onboarding flow (the "Before" version). I monitored their progress and asked them questions when they encountered friction. At the end of the test, they provided written feedback. I wrote down salient pieces of feedback on sticky notes and placed them on a board for an affinity mapping exercise, ultimately identifying three overarching problems. 
+I enlisted five users (friends) to test the client onboarding flow (the "Before" version). I monitored their progress and asked them questions when they encountered friction. At the end of the test, they provided written feedback. To identify problems with the UX, I conducted an affinity mapping exercise, writing snippets of feedback on sticky notes and placing them on a whiteboard. This helped me pinpoint three overarching problems. 
 ![Affinity Mapping](/imgs/Handshake UI Edits/stickynotes-feedback3_orig.png)
 *Affinity mapping mock-up. The yellow sticky notes are snippets of feedback from testers. The red sticky notes represent two of the three problems identified from this feedback.*
 
@@ -93,7 +96,7 @@ After documenting Handshake's brand values, I summarized the core voice characte
 
 #### The brand voice in action
 
-In addition to the voice chart, I documented content patterns, rules for grammar, punctuation, and capitalization, and outlined general style guidelines to follow throughout the interface. 
+In addition to the voice chart, I documented content patterns and outlined general style guidelines for the brand. 
 
 To illustrate how Handshake should sound, I mocked up screens for a mobile landing page and app cancellation message.  
 
@@ -103,17 +106,17 @@ To illustrate how Handshake should sound, I mocked up screens for a mobile landi
 
 ## Solution
 
-Finally, it was time to write some microcopy. I implemented the following solutions to address the three problems discussed previously:
+Finally, it was time to write the microcopy. I implemented the following solutions to address the three problems discussed previously:
 
 - Added a progress bar (Steps) at the top, easing user anxiety about how long onboarding would take. Additionally, the steps allow the user to navigate back and forth between screens in the flow.
-- Applied a conversational, human voice to build affinity for the product.
-- Built trust by using consistent content patterns and parallel construction (heading starts with a simple imperative verb, the button matches this verb).
+- Applied a conversational, human voice to build customer affinity for the product.
+- Employed consistent content patterns and parallel construction (heading starts with a simple imperative verb, the button matches this verb).
 - Added helpful labels ("Project name"), microcopy, hint text, and character limits.
 - Provided disclaimers, reassurances, and additional context in the body text.
-- Removed jargon like "1099 workers" and replaced it with voice-appropriate "freelancers."
-- Changed checkboxes on screen 2 to visual design components, eliminating the option to select multiple payment methods and making the design more user-friendly.
+- Replaced jargon like "1099 workers" with voice-appropriate alternatives ("freelancers").
+- Changed checkboxes on screen 2 to visual design components, eliminating the option to select multiple payment methods and ultimately making the design more straightforward. 
 - Replaced “paper checks” as a payment option with “bank transfer.” Users have chosen Handshake because they want to make and receive payments *digitally*; moreover, the app would not be able to facilitate or verify payment through paper checks. “Bank Transfer” was chosen over “Direct Deposit” because a bank transfer works for both users, whereas a direct deposit only makes sense for the freelancer who receives money.
-- Celebrated user success with personal touches, ensured they knew what just happened and what would happen next, and encouraged them to move forward in the experience.
+- Celebrated user success with personal touches, ensured they knew what happened and what would happen next, and encouraged them to move forward in the experience.
 
 ### Before
 ![Handshake Client Onboarding Before](/imgs/Handshake UI Edits/4-before-onboarding-client_orig.jpg)
@@ -121,8 +124,8 @@ Finally, it was time to write some microcopy. I implemented the following soluti
 ### After
 ![Handshake Client Onboarding After](/imgs/Handshake UI Edits/onboarding flow after.png)
 ## Results
-After completing the first draft, I tested the copy with a single user to identify any glaring oversights or points of friction. This user acknowledged that the flow was significantly improved and especially preferred the specific, actionable buttons instead of the "Back" and "Go" buttons in the Before version. They also described the flow as "transparent, reassuring, and friendly." However, the user had reservations about the hint text in the "Project Description" and "Message" fields. They wondered if this boilerplate text would be automatically recorded if they did not edit it before going to the next screens. While this is more of a development question than a UX writing question, the feedback was useful, and were this not a hypothetical application, I would take another crack at the hint text in a subsequent prototype. If I were the UX designer, I would make sure each screen only requires a single task; in this case, I would afford an entire screen to the project description component, allowing users more space to enter a long-form explanation of the project.  
-In terms of course feedback, I scored over 100% on the final project. My instructor commended my use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
+After completing the first draft, I tested the copy with a user, who credited the actionable button copy as the main improvement in the flow. She also described the flow as "transparent, reassuring, and friendly." However, she had reservations about the hint text in the "Project Description" and "Message" fields. She was worried that if she didn't edit the text it would be automatically entered into her response. While this may be more of a design flaw than a UX writing question, the feedback was useful, and were this not a hypothetical application, I might try to alleviate this doubt in a subsequent attempt. Additionally, I would petition for a more wholescale design change where each screen requires only a single task. In this case, I would afford an entire screen to the project description component, forcing users to focus on the single task of describing the project.  
+As for real-world feedback, I scored over 100% on the final project. My instructor commended my use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
 
 | Final Score | Instructor Feedback |
 |---|---|
@@ -141,9 +144,9 @@ In terms of course feedback, I scored over 100% on the final project. My instruc
 
 
 ## Lessons Learned
-As a rule, involving the UX writer early makes for a more streamlined design process. Had I been involved earlier, more design flaws could have been identified and testing the prototype would have been more cost-effective. I would have loved to work with designers to create single-task screens with personality-rich copy. Instead, most screens had multiple components, forcing the UI copy to be ultra-spare. In addition, there were some components that I didn't understand. In those cases, I would have asked engineers to describe the component to me in their own words so I could translate it to the user. Engineers also could have given me guidelines on things like character limits. In short, collaboration would have improved my writing, which ultimately increases retention and revenue.
+By virtue of working on this project all by myself, I learned the value of collaboration. The final product would have been better if I worked with a UX designer. My attempts to explain design components to the user highlighted flaws in the design. Likewise, if my UI copy did not match the designer's intentions, they could identify the source of friction and make revisions. 
 
-Further, I learned that without establishing brand voice and values, it is difficult to write consistent UI copy that builds affinity and trust among users. There are an infinite variety of clear and concise ways to convey a message: I needed the lodestar of a brand voice to guide my writing choices. 
+Secondly, I gained an appreciation of creating a brand voice and values. There are myriad ways to convey a message: placing constraints on writing decisions makes UX writing more efficient and manageable. Further, employing a single "voice" and consistent terminology builds a user's trust and affinity for the product.
 
-Finally, I was reminded how important it is to test copy. While I anticipated many of the problems a user might run into, I had a number of blind spots. For instance, one user asked, "Should I add due dates in the project description?" This resulted in the addition of an optional due date field. 
+Finally, I learned the importance of user testing. Testing identified my blind spots and biases. Without testing, I wouldn't have added due dates to the project details screen or a disclaimer about app fees on the payment method screen.  
 
