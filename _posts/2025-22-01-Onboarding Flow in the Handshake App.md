@@ -112,10 +112,11 @@ Finally, it was time to write the microcopy. I implemented the following solutio
 - Applied a conversational, human voice to build customer affinity for the product.
 - Employed consistent content patterns and parallel construction (heading starts with a simple imperative verb, the button matches this verb).
 - Added helpful labels ("Project name"), microcopy, hint text, and character limits.
+
 - Provided disclaimers, reassurances, and additional context in the body text.
 - Replaced jargon like "1099 workers" with voice-appropriate alternatives ("freelancers").
 - Changed checkboxes on screen 2 to visual design components, eliminating the option to select multiple payment methods and ultimately making the design more straightforward. 
-- Replaced “paper checks” as a payment option with “bank transfer.” Users have chosen Handshake because they want to make and receive payments *digitally*; moreover, the app would not be able to facilitate or verify payment through paper checks. “Bank Transfer” was chosen over “Direct Deposit” because a bank transfer works for both users, whereas a direct deposit only makes sense for the freelancer who receives money.
+- Replaced “paper checks” as a payment option with “bank transfer.” Users have chosen Handshake because they want to pay freelancers (or receive payments) *digitally.* I chose “Bank Transfer” instead of “Direct Deposit” because a bank transfer applies to both users, whereas a direct deposit only makes sense for the freelancer who receives money.
 - Celebrated user success with personal touches, ensured they knew what happened and what would happen next, and encouraged them to move forward in the experience.
 
 ### Before
@@ -124,7 +125,8 @@ Finally, it was time to write the microcopy. I implemented the following solutio
 ### After
 ![Handshake Client Onboarding After](/imgs/Handshake UI Edits/onboarding flow after.png)
 ## Results
-After completing the first draft, I tested the copy with a user, who credited the actionable button copy as the main improvement in the flow. She also described the flow as "transparent, reassuring, and friendly." However, she had reservations about the hint text in the "Project Description" and "Message" fields. She was worried that if she didn't edit the text it would be automatically entered into her response. While this may be more of a design flaw than a UX writing question, the feedback was useful, and were this not a hypothetical application, I might try to alleviate this doubt in a subsequent attempt. Additionally, I would petition for a more wholescale design change where each screen requires only a single task. In this case, I would afford an entire screen to the project description component, forcing users to focus on the single task of describing the project.  
+After completing the first draft, I tested the copy with a user, who credited the actionable button copy as the main improvement in the flow. She also described the flow as "transparent, reassuring, and friendly." However, she had reservations about the hint text in the "Project Description" and "Message" fields. She was worried that if she didn't edit the text it would be automatically entered into her response. To address this feedback, I would take a multi- approach: First, I would not allow the user to proceed to the next screen until they have edited the Project Description text. We could achieve this by graying out the Create Project button until the user enters text into the field. Additionally, I would petition for a more wholescale design change where each screen requires only a single task. In this case, I would afford an entire screen to the project description component, forcing users to focus on the single task of describing the project.  
+
 As for real-world feedback, I scored over 100% on the final project. My instructor commended my use of voice and tone, concise UI text, parallel construction, helpful hint and tool text, and consistent terminology, grammar, punctuation, spelling, and formatting. I received extra credit for solving additional usability issues, adding error messages, and providing legal disclaimers.  ​
 
 | Final Score | Instructor Feedback |
@@ -138,13 +140,13 @@ As for real-world feedback, I scored over 100% on the final project. My instruct
 
 |  |  |
 |---|---|
-|![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg.png)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end.png)|  
+|![Handshake App After P1](/imgs/Handshake UI Edits/2- handshake_finalscreenshot_beg2.png)|![Handshake App After P2](/imgs/Handshake UI Edits/3-handshake_finalscreenshot_end.png)|  
 
 *The Handshake app after my edits. Screens with pink text are not discussed in this case study.*
 
 
 ## Lessons Learned
-By virtue of working on this project all by myself, I learned the value of collaboration. The final product would have been better if I worked with a UX designer. My attempts to explain design components to the user highlighted flaws in the design. Likewise, if my UI copy did not match the designer's intentions, they could identify the source of friction and make revisions. 
+When you're all on your own, you learn the value of teamwork. The final product would have been better if I collaborated with a UX designer. Writing UI copy highlights flaws in a design. The more I wrote, the more flaws I identified. Likewise, if my UI copy didn't match the designer's intentions, the designer could have pinpointed the source of friction and made revisions. 
 
 Secondly, I gained an appreciation of creating a brand voice and values. There are myriad ways to convey a message: placing constraints on writing decisions makes UX writing more efficient and manageable. Further, employing a single "voice" and consistent terminology builds a user's trust and affinity for the product.
 
