@@ -146,9 +146,9 @@ As for real-world feedback, I scored over 100% on the final project. My instruct
 
 
 ## Lessons Learned
-When you're all on your own, you learn the value of teamwork. The final product would have been better if I collaborated with a UX designer. Writing UI copy highlights flaws in a design. The more I wrote, the more flaws I identified. Likewise, if my UI copy didn't match the designer's intentions, the designer could have pinpointed the source of friction and made revisions. 
+When you're all on your own, you learn the value of teamwork. The final product would have been better if I collaborated with a UX designer. Writing UI copy highlights flaws in a design: the more I wrote, the more flaws I identified. Likewise, if my UI copy didn't match the designer's intentions, the designer could have pinpointed the source of friction and made revisions. 
 
-Secondly, I gained an appreciation of creating a brand voice and values. There are myriad ways to convey a message: placing constraints on writing decisions makes UX writing more efficient and manageable. Further, employing a single "voice" and consistent terminology builds a user's trust and affinity for the product.
+Secondly, I gained an appreciation for creating a brand voice and values. There are myriad ways to convey a message, but placing constraints on writing decisions makes the task more efficient and manageable. Further, employing a single "voice" and consistent terminology builds a user's trust and affinity for the product.
 
-Finally, I learned the importance of user testing. Testing identified my blind spots and biases. Without testing, I wouldn't have added due dates to the project details screen or a disclaimer about app fees on the payment method screen.  
+Finally, I learned the importance of user testing. Testing identified my blind spots and biases. Without testing, I wouldn't have added due dates to the project details screen or disclaimers under the main headings.  
 
