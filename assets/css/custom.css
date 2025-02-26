@@ -1,0 +1,10 @@
+table {
+  width: 100%;
+  max-width: none;
+  display: table;
+}
+
+.table-wrapper {
+  overflow-x: visible;
+  white-space: normal;
+}
