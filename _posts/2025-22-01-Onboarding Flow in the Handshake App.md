@@ -72,7 +72,7 @@ Who were the users and how could I meet their needs? Thankfully, the following p
 | --- | --- |
 | ![UXCC Final Score](/imgs/Handshake UI Edits/Kelly_persona.JPG.jpg) | ![UXCC Feedback](/imgs/Handshake UI Edits/Tom_persona.JPG.jpg) |  
 
-#### **Voice mad libs**
+#### Voice mad libs
 
 To establish Handshake’s brand values and voice, I asked friends who freelance to play "Brand voice mad libs," shown below. After analyzing the responses (and writing a few of my own on behalf of Tom and Kelly), I reached a consensus on the following statements:
 
@@ -93,11 +93,9 @@ After documenting Handshake's brand values, I summarized the core voice characte
 | Honest, Transparent | Be forthright, but don’t be self-righteous about it. | Use confirmation dialogs and microcopy to prevent unintended actions and disclose important information users might want to know. | Hide legal disclaimers. |
 | Reassuring | Encourage users to complete tasks on their own, but always be ready to jump in with a helping hand. | Alleviate doubts with helpful hint text, tooltips, and microcopy, and always be consistent with terminology. | Blame users. |
 
+I also created a style guide, documenting word choice preferences, content patterns, grammar and spelling conventions, and more. This style guide is available upon request. 
 
 #### The brand voice in action
-
-In addition to the voice chart, I documented content patterns and outlined general style guidelines for the brand. 
-
 To illustrate how Handshake should sound, I mocked up screens for a mobile landing page and app cancellation message.  
 
 |  |  |
@@ -106,13 +104,12 @@ To illustrate how Handshake should sound, I mocked up screens for a mobile landi
 
 ## Solution
 
-Finally, it was time to write the microcopy. I implemented the following solutions to address the three problems discussed previously:
+Finally, it was time to write the microcopy. Here's what I did to address the three aforementioned problems:
 
 - Added a progress bar (Steps) at the top, easing user anxiety about how long onboarding would take. Additionally, the steps allow the user to navigate back and forth between screens in the flow.
 - Applied a conversational, human voice to build customer affinity for the product.
 - Employed consistent content patterns and parallel construction (heading starts with a simple imperative verb, the button matches this verb).
 - Added helpful labels ("Project name"), microcopy, hint text, and character limits.
-
 - Provided disclaimers, reassurances, and additional context in the body text.
 - Replaced jargon like "1099 workers" with voice-appropriate alternatives ("freelancers").
 - Changed checkboxes on screen 2 to visual design components, eliminating the option to select multiple payment methods and ultimately making the design more straightforward. 
