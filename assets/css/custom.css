@@ -1,10 +1,28 @@
+/* Ensure table takes full width and resizes columns dynamically */
 table {
   width: 100%;
-  max-width: none;
-  display: table;
+  table-layout: auto; /* Allows flexible column width */
+  border-collapse: collapse;
 }
 
-.table-wrapper {
-  overflow-x: visible;
+/* Style table headers and cells */
+th, td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  word-wrap: break-word;
   white-space: normal;
+  text-align: left;
+}
+
+/* Ensure parent wrapper does not cause horizontal scrolling */
+.table-wrapper {
+  overflow-x: visible !important;
+  white-space: normal;
+}
+
+/* Override Chirpy’s default table style that forces scrolling */
+.post-content table {
+  display: table;
+  max-width: 100%;
+  overflow-x: visible;
 }
