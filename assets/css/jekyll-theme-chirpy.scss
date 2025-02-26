@@ -1,8 +1,10 @@
 table {
-  table-layout: fixed; /* Ensures columns have fixed width */
-  width: 100%; /* Ensures the table fits the container */
-  word-wrap: break-word; /* Allows text to wrap within cells */
+  width: 100%;
+  max-width: none;
+  overflow-x: visible;
+  display: table;
 }
+
 
 th, td {
   white-space: normal; /* Allows text to wrap */
