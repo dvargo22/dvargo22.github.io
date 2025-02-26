@@ -1,47 +1,25 @@
-/* Ensure table takes full width and resizes columns dynamically */
-table {
-  width: 100%;
-  table-layout: auto; /* Allows flexible column width */
-  border-collapse: collapse;
-}
-
-/* Style table headers and cells */
-th, td {
-  padding: 8px;
-  border: 1px solid #ddd;
-  word-wrap: break-word;
-  white-space: normal;
-  text-align: left;
-}
-
-/* Ensure parent wrapper does not cause horizontal scrolling */
-.table-wrapper {
-  overflow-x: visible !important;
-  white-space: normal;
-}
-
-/* Override Chirpy’s default table style that forces scrolling */
+/* Override Chirpy's forced scrolling on tables */
 .post-content table {
-  display: table;
-  max-width: 100%;
-  overflow-x: visible;
-}
-
-/* Override Chirpy's default table wrapper behavior */
-.post-content > div:not(.highlight) > table {
   display: table !important;
   width: 100% !important;
   max-width: 100% !important;
-  overflow-x: visible !important;
   table-layout: auto !important; /* Allow columns to adjust dynamically */
+  border-collapse: collapse;
 }
 
-/* Style table headers and cells */
+/* Ensure table is fully visible */
+.post-content .table-wrapper {
+  overflow-x: hidden !important; /* Prevent unnecessary scrolling */
+  width: 100% !important;
+}
+
+/* Make sure table cells adjust properly */
 .post-content table th, 
 .post-content table td {
   padding: 10px;
   border: 1px solid #ddd;
   word-wrap: break-word;
-  white-space: normal;
+  white-space: normal; /* Prevent text from forcing a scrollbar */
   text-align: left;
 }
+
