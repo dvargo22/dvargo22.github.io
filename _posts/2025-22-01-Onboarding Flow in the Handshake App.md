@@ -87,11 +87,10 @@ After documenting Handshake's brand values, I summarized the core voice characte
 
 | Characteristic | Description | Do | Don't |
 |---|---|---|---|
-| No nonsense | Handshake’s voice is human, authentic, and down-to-earth. | Use words that everyone understands. | Alienate users with jargon. |               
-| Business Caual | Handshake should sound like a friendly coworker, not like a memo from HR. | Be professional, but not too formal. | Be irreverent. |
-| Friendly, Not Bubbly | Celebrate our users’ success, but avoid wordiness and overly fluffy language. | Compliment and thank users. | Use too many exclamation points, exaggerate, or employ unnecessary phrases, such as, “We just wanted to…” or “Quick question…” |
-| Honest, Transparent | Be forthright, but don’t be self-righteous about it. | Use confirmation dialogs and microcopy to prevent unintended actions and disclose important information users might want to know. | Hide legal disclaimers. |
-| Reassuring | Encourage users to complete tasks on their own, but always be ready to jump in with a helping hand. | Alleviate doubts with helpful hint text, tooltips, and microcopy, and always be consistent with terminology. | Blame users. |
+| Business Casual | Handshake sounds like a friendly coworker, not like a memo from HR. | Be professional, but use words that everyone understands. | Alienate users with jargon, but also don't be irreverent. |
+| Friendly, Not Bubbly | Handshake celebrates users’ success but avoids wordiness and overly fluffy language. | Compliment and thank users. | Use too many exclamation points, exaggerate, or employ unnecessary phrases, such as, “We just wanted to…” or “Quick question…” |
+| Honest, Transparent | Handshake is always forthright but isn't self-righteous about it. | Use confirmation dialogs and microcopy to prevent unintended actions and disclose important information users might want to know. | Hide legal disclaimers. |
+| Reassuring | Handshake encourages users to complete tasks on their own but is always be ready to jump in with a helping hand. | Alleviate doubts with helpful hint text, tooltips, and microcopy, and always be consistent with terminology. | Blame users. |
 
 I also created a style guide, documenting word choice preferences, content patterns, grammar and spelling conventions, and more. This style guide is available upon request. 
 
