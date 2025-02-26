@@ -26,3 +26,22 @@ th, td {
   max-width: 100%;
   overflow-x: visible;
 }
+
+/* Override Chirpy's default table wrapper behavior */
+.post-content > div:not(.highlight) > table {
+  display: table !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow-x: visible !important;
+  table-layout: auto !important; /* Allow columns to adjust dynamically */
+}
+
+/* Style table headers and cells */
+.post-content table th, 
+.post-content table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  word-wrap: break-word;
+  white-space: normal;
+  text-align: left;
+}
